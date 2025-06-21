@@ -1,8 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">
+  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
+</h1>
 
 ###
 
-<p align="left">My name is Ficram Manifur Farissa and I'm an Electrical Engineering student from Indonesia.</p>
+<p align="left">
+  My name is Ficram Manifur Farissa and I'm an Electrical Engineering student from 
+  <img src="https://flagcdn.com/w40/id.png" width="22" alt="Indonesia Flag" /> Indonesia.
+</p>
 
 ###
 
@@ -20,8 +25,6 @@
 ###
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -44,8 +47,8 @@
 <h2 align="left">📈 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&show_icons=true&theme=tokyonight&hide_border=true" alt="Ficram's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
 ###
@@ -54,19 +57,23 @@
 
 <p align="left">
   <a href="https://github.com/ficrammanifur/robotic-hand-prototype">
-    <img src="https://img.shields.io/badge/🦾 Robotic_Hand-In_Progress-blueviolet?style=for-the-badge&logo=github" alt="Robotic Hand Status Badge"/>
+    <img src="https://img.shields.io/badge/🦾 Robotic_Hand-In_Progress-blueviolet?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/ficrammanifur/flutter-scheduler-app">
-    <img src="https://img.shields.io/badge/📱 Flutter_Scheduler-Dev_Build-orange?style=for-the-badge&logo=flutter" alt="Flutter App Status Badge"/>
+    <img src="https://img.shields.io/badge/📱 Flutter_Scheduler-Dev_Build-orange?style=for-the-badge&logo=flutter" />
   </a>
 </p>
 
 ###
 
-<h2 align="left">⚡ Animated Vibes</h2>
+<h2 align="left">🎮 Pacman Commit Game</h2>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding GIF" />
+<p align="center">
+  <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/pacman.yml/badge.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ficrammanifur/ficrammanifur/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ###
@@ -76,6 +83,10 @@
 <p align="left">
 📧 Email: <a href="mailto:ficramm@gmail.com">ficramm@gmail.com</a><br>
 📸 Instagram: <a href="https://instagram.com/ficrammanifur">@ficrammanifur</a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
 
 ---
