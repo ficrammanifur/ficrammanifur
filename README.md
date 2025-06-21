@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ficram Manifur Farissa and I'm an Electrical Engineering student from Universitas Cendekia Abditama, Indonesia.</p>
+<p align="left">My name is Ficram Manifur Farissa and I'm an Electrical Engineering student, Indonesia.</p>
 
 ###
 
