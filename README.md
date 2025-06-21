@@ -1,35 +1,56 @@
-# 👨‍💻 Ficram Farissa | Electrical Engineer in Progress ⚡  
-### Robotic Hand • Flutter Dev • Embedded & AI Enthusiast  
+<h1 align="left">Hey 👋 What's up?</h1>
 
----
+###
 
-## 👋 Hi there, I'm Ficram Manifur Farissa!
+<p align="left">My name is Ficram Manifur Farissa and I'm an Electrical Engineering student from Universitas Cendekia Abditama, Indonesia.</p>
 
-I'm an Electrical Engineering student at **Universitas Cendekia Abditama**, currently in my 6th semester — passionate about embedded systems, robotics, and software development.  
+###
 
-### ⚡ Interests & Projects
-- 🤖 Building **robotic hand prototypes** using ESP32 + Servo + MediaPipe Hand Tracking  
-- 🛠️ Developing apps with **Flutter**, integrated with Firebase & AI (ChatGPT)  
-- 📡 Exploring **IoT**, signal processing, and computer networks  
-- 🧠 Love tinkering with **AI logic, control systems**, and challenging builds  
+<h2 align="left">About me</h2>
 
-### 🧰 Tech Stack
-- Languages: `C++`, `Python`, `Dart`, `VHDL`
-- Tools: `Flutter`, `Firebase`, `PlatformIO`, `VS Code`, `Arduino IDE`
-- Boards: `ESP32`, `Arduino`, `Raspberry Pi`
+###
 
-### 🎓 Currently Learning
-- FPGA programming (Dataflow & RTL Design)  
-- Signal processing & advanced electronics  
-- Capstone Project: Intelligent robotic hand prototype  
+<p align="left">
+✨ Creating bugs since 2022 (officially 😅)<br>
+📚 I'm currently learning FPGA (Dataflow & RTL), signal processing, and advanced electronics<br>
+🎯 Goals: Build an intelligent robotic hand and launch my own smart system projects<br>
+🎲 Fun fact: I can switch from soldering to debugging Flutter apps — all in the same afternoon!
+</p>
 
-### 🧠 My Personality (Just for Fun!)
-- **Motto**: _“What if your maximum is someone’s minimum.”_
+###
 
-### 📫 How to reach me
-- Email: `ficramm@gmail.com`  
-- Instagram: [@ficrammanifur](https://instagram.com/ficrammanifur)  
+<h2 align="left">I code with</h2>
 
----
+###
 
-> “Keep building. Keep debugging. Great ideas begin where comfort ends.”
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+</div>
+
+###
+
+<h2 align="left">📫 How to reach me</h2>
+
+###
+
+<p align="left">
+📧 Email: <a href="mailto:ficramm@gmail.com">ficramm@gmail.com</a><br>
+📸 Instagram: <a href="https://instagram.com/ficrammanifur">@ficrammanifur</a>
+</p>
+
+###
+
+> 🧠 _"What if your maximum is someone’s minimum."_  
+> 💬 _“Keep building. Keep debugging. Great ideas begin where comfort ends.”_
