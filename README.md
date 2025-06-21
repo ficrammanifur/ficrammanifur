@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-  My name is Ficram Manifur Farissa and I'm an Electrical Engineering student from 
+  My name is Ficram Engineering student @localhost trying to make ESP32 feel emotions 🤖 from 
   <img src="https://flagcdn.com/w40/id.png" width="22" alt="Indonesia Flag" /> Indonesia.
 </p>
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">🎮 Pacman Commit Game</h2>
+<h2 align="left">🎮 Snake Commit Game</h2>
 
 <p align="center">
   <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/pacman.yml/badge.svg" />
