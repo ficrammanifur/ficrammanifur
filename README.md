@@ -27,7 +27,7 @@ I'm an Electrical Engineering student at **Universitas Cendekia Abditama**, curr
 - **Motto**: _“What if your maximum is someone’s minimum.”_
 
 ### 📫 How to reach me
-- Email: `ficramfarissa@gmail.com`  
+- Email: `ficramm@gmail.com`  
 - Instagram: [@ficrammanifur_](https://instagram.com/ficrammanifur)  
 
 ---
