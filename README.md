@@ -28,7 +28,7 @@ I'm an Electrical Engineering student at **Universitas Cendekia Abditama**, curr
 
 ### 📫 How to reach me
 - Email: `ficramm@gmail.com`  
-- Instagram: [@ficrammanifur_](https://instagram.com/ficrammanifur)  
+- Instagram: [@ficrammanifur](https://instagram.com/ficrammanifur)  
 
 ---
 
