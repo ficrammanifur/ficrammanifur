@@ -69,7 +69,7 @@
 <h2 align="left">🎮 Snake Commit Game</h2>
 
 <p align="center">
-  <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/pacman.yml/badge.svg" />
+  <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/Snake.yml/badge.svg" />
 </p>
 
 <p align="center">
