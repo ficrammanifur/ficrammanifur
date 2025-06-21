@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ficrammanifur/ficrammanifur/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg" />
 </p>
 
 ###
