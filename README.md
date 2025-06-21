@@ -5,8 +5,8 @@
 ###
 
 <p align="left">
-  My name is Ficram Engineering student @localhost trying to make ESP32 feel emotions 🤖 from 
-  <img src="https://flagcdn.com/w40/id.png" width="22" alt="Indonesia Flag" /> Indonesia.
+  My name is Ficram — Engineering student @<code>localhost</code> trying to make <b>ESP32</b> feel emotions 🤖  
+  from <img src="https://flagcdn.com/w40/id.png" width="22" alt="Indonesia Flag" /> Indonesia.
 </p>
 
 ###
@@ -16,10 +16,10 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2022 (officially 😅)<br>
-📚 I'm currently learning FPGA (Dataflow & RTL), signal processing, and advanced electronics<br>
-🎯 Goals: Build an intelligent robotic hand and launch my own smart system projects<br>
-🎲 Fun fact: I can switch from soldering to debugging Flutter apps — all in the same afternoon!
+✨ Creating bugs professionally since 2022 (the ones I can't fix, I just call features 😅)<br>
+📚 Learning how to make wires smarter — currently digging into FPGA, signal processing, and “why it doesn’t compile”<br>
+🎯 Mission: Build an intelligent robotic hand that doesn’t punch me when I upload new firmware<br>
+🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one session.
 </p>
 
 ###
