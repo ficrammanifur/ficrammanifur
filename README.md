@@ -3,7 +3,9 @@
     Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
   </h1>
 
-  <h2>My name is <strong>Ficrammanifur</strong></h2>
+  <h2>
+    My name is <strong><span style="color:#3b82f6">Ficrammanifur</span></strong>
+  </h2>
 
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count"/>
 
@@ -11,7 +13,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Engineering+Student+%40localhost;Making+ESP32+feel+emotions+%F0%9F%A4%96;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
-
 
 ### 🧠 About Me
 
@@ -110,3 +111,11 @@
 
 > 🧠 _"What if your maximum is someone’s minimum."_  
 > 💬 _“Keep building. Keep debugging. Great ideas begin where comfort ends.”_
+
+---
+
+<div align="center">
+  <sub><i>this README file is generated every 12 hours!</i></sub>  
+  <br>
+  <sub><i>Last refresh: Monday, 3 March, 07:06 GMT+5:30</i></sub>
+</div>
