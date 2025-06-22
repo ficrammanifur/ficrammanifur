@@ -1,24 +1,22 @@
 <div align="center">
-  <style>
-    .color-change {
-      animation: colorRotate 6s linear 0s infinite;
-    }
-    @keyframes colorRotate {
-      0% { color: #10b981; }
-      20% { color: #3b82f6; }
-      40% { color: #9333ea; }
-      60% { color: #ec4899; }
-      80% { color: #f59e0b; }
-      100% { color: #10b981; }
-    }
-  </style>
-  
   <h1>
     Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
   </h1>
 
   <h2>
-    My name is <strong><span class="color-change">Ficrammanifur</span></strong>
+    My name is <strong><svg width="200" height="40" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#10b981">
+            <animate attributeName="stop-color" values="#10b981;#3b82f6;#9333ea;#ec4899;#f59e0b;#10b981" dur="6s" repeatCount="indefinite" />
+          </stop>
+          <stop offset="100%" stop-color="#3b82f6">
+            <animate attributeName="stop-color" values="#3b82f6;#9333ea;#ec4899;#f59e0b;#10b981;#3b82f6" dur="6s" repeatCount="indefinite" />
+          </stop>
+        </linearGradient>
+      </defs>
+      <text x="0" y="30" font-family="Arial" font-size="24" fill="url(#gradient)" font-weight="bold">Ficrammanifur</text>
+    </svg></strong>
   </h2>
 
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count"/>
