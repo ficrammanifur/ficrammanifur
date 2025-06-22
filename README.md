@@ -29,31 +29,36 @@
 
 ### ⚒️ I Code With
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" /><br><sub><b>Dart</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" /><br><sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br><sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" /><br><sub><b>Arduino</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
+    <sub><b>C++</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
+    <sub><b>Python</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br>
+    <sub><b>Dart</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br>
+    <sub><b>Flutter</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br>
+    <sub><b>Firebase</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/><br>
+    <sub><b>Arduino</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>
+    <sub><b>VS Code</b></sub>
+  </div>
+</div>
 
 ---
 
