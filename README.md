@@ -3,9 +3,9 @@
     Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
   </h1>
 
-  <h2>
-    My name is <strong><span style="color:#3b82f6">Ficrammanifur</span></strong>
-  </h2>
+<h2>
+  My name is <strong><span style="color:#10b981">Ficrammanifur</span></strong>
+</h2>
 
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count"/>
 
@@ -117,5 +117,5 @@
 <div align="center">
   <sub><i>this README file is generated every 12 hours!</i></sub>  
   <br>
-  <sub><i>Last refresh: Monday, 3 March, 07:06 GMT+5:30</i></sub>
+  <sub><i>Last refresh: Monday, 23 June, 03:45 GMT+7</i></sub>
 </div>
