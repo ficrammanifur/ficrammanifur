@@ -1,11 +1,25 @@
 <div align="center">
+  <style>
+    .color-change {
+      animation: colorRotate 6s linear 0s infinite;
+    }
+    @keyframes colorRotate {
+      0% { color: #10b981; }
+      20% { color: #3b82f6; }
+      40% { color: #9333ea; }
+      60% { color: #ec4899; }
+      80% { color: #f59e0b; }
+      100% { color: #10b981; }
+    }
+  </style>
+  
   <h1>
     Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
   </h1>
 
-<h2>
-  My name is <strong><span style="color:#10b981">Ficrammanifur</span></strong>
-</h2>
+  <h2>
+    My name is <strong><span class="color-change">Ficrammanifur</span></strong>
+  </h2>
 
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count"/>
 
@@ -17,8 +31,8 @@
 ### 🧠 About Me
 
 ✨ Creating bugs professionally since 2022 (the ones I can't fix, I just call features 😅)  
-📚 Learning how to make wires smarter — currently digging into FPGA, signal processing, and “why it doesn’t compile”  
-🎯 Mission: Build an intelligent robotic hand that doesn’t punch me when I upload new firmware  
+📚 Learning how to make wires smarter — currently digging into FPGA, signal processing, and "why it doesn't compile"  
+🎯 Mission: Build an intelligent robotic hand that doesn't punch me when I upload new firmware  
 🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one session  
 
 ### 🛠️ My Tech Journey
@@ -109,8 +123,8 @@
   </ul>
 </details>
 
-> 🧠 _"What if your maximum is someone’s minimum."_  
-> 💬 _“Keep building. Keep debugging. Great ideas begin where comfort ends.”_
+> 🧠 _"What if your maximum is someone's minimum."_  
+> 💬 _"Keep building. Keep debugging. Great ideas begin where comfort ends."_
 
 ---
 
