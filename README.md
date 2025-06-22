@@ -1,23 +1,22 @@
-<div align="center">
-  <h1>
-    Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
-  </h1>
-
-  <h2>
-    My name is <strong><svg width="200" height="40" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#10b981">
-            <animate attributeName="stop-color" values="#10b981;#3b82f6;#9333ea;#ec4899;#f59e0b;#10b981" dur="6s" repeatCount="indefinite" />
-          </stop>
-          <stop offset="100%" stop-color="#3b82f6">
-            <animate attributeName="stop-color" values="#3b82f6;#9333ea;#ec4899;#f59e0b;#10b981;#3b82f6" dur="6s" repeatCount="indefinite" />
-          </stop>
-        </linearGradient>
-      </defs>
-      <text x="0" y="30" font-family="Arial" font-size="24" fill="url(#gradient)" font-weight="bold">Ficrammanifur</text>
-    </svg></strong>
-  </h2>
+<h2>
+  My name is  
+  <svg width="320" height="45" viewBox="0 0 320 45" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+    <defs>
+      <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#39ff14">
+          <animate attributeName="stop-color" values="#39ff14;#00f0ff;#8e2de2;#f72585;#39ff14" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#00f0ff">
+          <animate attributeName="stop-color" values="#00f0ff;#8e2de2;#f72585;#39ff14;#00f0ff" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+      <filter id="glow">
+        <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#00f0ff" />
+      </filter>
+    </defs>
+    <text x="0" y="30" font-size="28" font-family="Arial, sans-serif" font-weight="bold" fill="url(#neonGradient)" filter="url(#glow)">Ficrammanifur</text>
+  </svg>
+</h2>
 
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count"/>
 
