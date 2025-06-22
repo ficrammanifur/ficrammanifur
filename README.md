@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> What's up?
+  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />  
 </h1>
 
-<p align="center" style="font-family: Fira Code, monospace;">
-  My name is <b>Ficram</b>
-</p>
+<h2 align="center">
+  My name is <strong>Ficram</strong>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Engineering+Student+%40localhost;Making+ESP32+feel+emotions+%F0%9F%A4%96;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
@@ -32,19 +32,19 @@
 
 ### ⚒️ I Code With
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
 
@@ -80,12 +80,19 @@
 
 ---
 
-<iframe style="border-radius:12px" 
-  src="https://open.spotify.com/embed/playlist/016vVelEBMJq1WxFQCAaZ1?utm_source=generator&theme=0" 
-  width="100%" height="380" frameBorder="0" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-  loading="lazy">
-</iframe>
+### 🎧 Spotify Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/016vVelEBMJq1WxFQCAaZ1" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/016vVelEBMJq1WxFQCAaZ1" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ficrammanifur&cover_image=true&theme=default&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
