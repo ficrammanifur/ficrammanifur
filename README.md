@@ -1,13 +1,15 @@
 <div align="center">
 
-  <h1>
-    Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
+  <h1 style="margin-bottom: 10px;">
+    Hey there 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> 
+    What's up?
   </h1>
 
-  <h2>
+  <h2 style="margin-bottom: 0;">
     My name is
-    <span style="vertical-align: middle;">
-      <svg width="300" height="40" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg">
+    <span style="vertical-align: middle; display: inline-block;">
+      <svg width="300" height="40" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg" style="margin-top: 0;">
         <defs>
           <linearGradient id="neonStatic" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#39ff14" />
