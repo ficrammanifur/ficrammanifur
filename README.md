@@ -4,18 +4,18 @@
   </h1>
 
   <h2 align="center">
-  My name is  
-  <svg width="300" height="40" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
-    <defs>
-      <linearGradient id="neonStatic" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#39ff14" />
-        <stop offset="50%" stop-color="#00f0ff" />
-        <stop offset="100%" stop-color="#8e2de2" />
-      </linearGradient>
-    </defs>
-    <text x="0" y="30" font-size="28" font-family="Arial, sans-serif" font-weight="bold" fill="url(#neonStatic)">Ficrammanifur</text>
-  </svg>
-</h2>
+    My name is  
+    <svg width="300" height="40" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <defs>
+        <linearGradient id="neonStatic" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#39ff14" />
+          <stop offset="50%" stop-color="#00f0ff" />
+          <stop offset="100%" stop-color="#8e2de2" />
+        </linearGradient>
+      </defs>
+      <text x="0" y="30" font-size="28" font-family="Arial, sans-serif" font-weight="bold" fill="url(#neonStatic)">Ficrammanifur</text>
+    </svg>
+  </h2>
 
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count"/>
 
@@ -24,6 +24,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Engineering+Student+%40localhost;Making+ESP32+feel+emotions+%F0%9F%A4%96;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
+---
+
 ### 🧠 About Me
 
 ✨ Creating bugs professionally since 2022 (the ones I can't fix, I just call features 😅)  
@@ -31,12 +33,16 @@
 🎯 Mission: Build an intelligent robotic hand that doesn't punch me when I upload new firmware  
 🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one session  
 
+---
+
 ### 🛠️ My Tech Journey
 
 - 🔌 **2022:** Started with Arduino & C++  
 - 🐍 **2023:** Learned Python & built gesture-controlled apps  
 - 📱 **2024:** Flutter + Firebase full-stack mobile apps  
 - 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA  
+
+---
 
 ### ⚒️ I Code With
 
@@ -56,11 +62,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
 
+---
+
 ### 🚧 Currently Working On
 
 - 🦾 Training an ESP32 to mimic hand gestures in real time  
 - 🧪 Prototyping signal processing algorithms on real-world noisy data  
 - 📲 Building a scheduler app with Firebase + Flutter + Local Notifications  
+
+---
 
 ### 📌 My Projects & Status
 
@@ -73,12 +83,16 @@
   </a>
 </p>
 
+---
+
 ### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&show_icons=true&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
+
+---
 
 ### 🎧 Spotify Now Playing
 
@@ -94,6 +108,8 @@
   </a>
 </p>
 
+---
+
 ### 🐍 Snake Game (because commits should be fun)
 
 <p align="center">
@@ -103,10 +119,14 @@
   <img src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
 ### 📬 Reach Me
 
 📧 Email: [ficramm@gmail.com](mailto:ficramm@gmail.com)  
 📸 Instagram: [@ficrammanifur](https://instagram.com/ficrammanifur)  
+
+---
 
 ### 💡 Did You Know?
 
