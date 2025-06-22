@@ -87,7 +87,6 @@
 <p align="left">
   📧 Email: <a href="mailto:ficramm@gmail.com">ficramm@gmail.com</a><br>
   📸 Instagram: <a href="https://instagram.com/ficrammanifur">@ficrammanifur</a><br>
-  💼 LinkedIn: <a href="https://linkedin.com/in/ficrammanifur">linkedin.com/in/ficrammanifur</a>
 </p>
 
 <p align="left">
