@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />  
+  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 </h1>
 
 <h2 align="center">
@@ -32,7 +32,7 @@
 
 ### ⚒️ I Code With
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
@@ -80,17 +80,17 @@
 
 ---
 
-### 🎧 Spotify Playing
+### 🎧 Spotify Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/016vVelEBMJq1WxFQCAaZ1" target="_blank">
+  <a href="https://open.spotify.com/user/ficramm">
     <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/016vVelEBMJq1WxFQCAaZ1" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ficrammanifur&cover_image=true&theme=default&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/ficramm">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
