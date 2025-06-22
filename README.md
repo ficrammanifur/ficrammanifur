@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
+    Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> What's up?
   </h1>
 
   <h2>My name is <strong>Ficrammanifur</strong></h2>
