@@ -7,7 +7,7 @@
   <h2 style="margin-bottom: 0;">
     My name is
     <span style="vertical-align: middle; display: inline-block;">
-      <svg width="300" height="40" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg" style="margin-top: 0;">
+      <svg width="300" height="40" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <linearGradient id="neonStatic" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#39ff14" />
@@ -31,18 +31,18 @@
 ### 🧠 About Me
 
 ✨ Creating bugs professionally since 2022 (the ones I can't fix, I just call features 😅)  
-📚 Learning how to make wires smarter — currently digging into FPGA, signal processing, and "why it doesn't compile"  
+📚 Learning how to make wires smarter — currently digging into FPGA, signal processing, and “why it doesn't compile”  
 🎯 Mission: Build an intelligent robotic hand that doesn't punch me when I upload new firmware  
-🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one session  
+🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one session
 
 ---
 
 ### 🛠️ My Tech Journey
 
-- 🔌 **2022:** Started with Arduino & C++  
-- 🐍 **2023:** Learned Python & built gesture-controlled apps  
-- 📱 **2024:** Flutter + Firebase full-stack mobile apps  
-- 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA  
+- 🔌 **2022:** Started with Arduino & C++
+- 🐍 **2023:** Learned Python & built gesture-controlled apps
+- 📱 **2024:** Flutter + Firebase full-stack mobile apps
+- 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA
 
 ---
 
@@ -68,9 +68,9 @@
 
 ### 🚧 Currently Working On
 
-- 🦾 Training an ESP32 to mimic hand gestures in real time  
-- 🧪 Prototyping signal processing algorithms on real-world noisy data  
-- 📲 Building a scheduler app with Firebase + Flutter + Local Notifications  
+- 🦾 Training an ESP32 to mimic hand gestures in real time
+- 🧪 Prototyping signal processing algorithms on real-world noisy data
+- 📲 Building a scheduler app with Firebase + Flutter + Local Notifications
 
 ---
 
@@ -126,7 +126,7 @@
 ### 📬 Reach Me
 
 📧 Email: [ficramm@gmail.com](mailto:ficramm@gmail.com)  
-📸 Instagram: [@ficrammanifur](https://instagram.com/ficrammanifur)  
+📸 Instagram: [@ficrammanifur](https://instagram.com/ficrammanifur)
 
 ---
 
