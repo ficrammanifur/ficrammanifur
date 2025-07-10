@@ -77,10 +77,10 @@
 ### 📌 My Projects & Status
 
 <p align="left">
-  <a href="https://github.com/ficrammanifur/robotic-hand-prototype">
+  <a href="[https://github.com/ficrammanifur/robotic-hand-prototype](https://github.com/ficrammanifur/Gesture-Clone-Robot)">
     <img src="https://img.shields.io/badge/🦾 Robotic_Hand-In_Progress-blueviolet?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/ficrammanifur/flutter-scheduler-app">
+  <a href="[https://github.com/ficrammanifur/flutter-scheduler-app](https://github.com/ficrammanifur/flutter-project)">
     <img src="https://img.shields.io/badge/📱 Flutter_Scheduler-Dev_Build-orange?style=for-the-badge&logo=flutter" />
   </a>
 </p>
