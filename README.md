@@ -156,7 +156,7 @@
 ---
 
 <div align="center">
-  <sub><i>this README file is generated every 12 hours!</i></sub>  
+  <sub><i>This README file is generated every 12 hours!</i></sub>  
   <br>
-  <sub><i>Last refresh: Monday, 23 June, 03:45 GMT+7</i></sub>
+  <sub><i>Last refresh: Thursday, 10 July 2025, 14:25 GMT+7</i></sub>
 </div>
