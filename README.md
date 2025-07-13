@@ -28,28 +28,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Electrical+Engineering+Student;Making+ESP32+feel+emotions+🤖;From+Indonesia+🇮🇩" alt="Typing SVG" />
 </div>
 
+---
+
+## 🧠 About Me
+
+✨ Creating bugs professionally since 2022 (the ones I can’t fix, I call features 😅)  
+📚 Learning how to make wires smarter — FPGA, signal processing & "why won’t it compile?"  
+🎯 Mission: Build an intelligent robotic hand that *doesn’t* punch me when I upload new firmware  
+🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one sitting
 
 ---
 
-### 🧠 About Me
+## 🛠️ My Tech Journey
 
-✨ Creating bugs professionally since 2022 (the ones I can't fix, I just call features 😅)  
-📚 Learning how to make wires smarter — currently digging into FPGA, signal processing, and “why it doesn't compile”  
-🎯 Mission: Build an intelligent robotic hand that doesn't punch me when I upload new firmware  
-🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one session
-
----
-
-### 🛠️ My Tech Journey
-
-- 🔌 **2022:** Started with Arduino & C++
+- 🔌 **2022:** Started with Arduino & C++, building simple projects on ESP32
 - 🐍 **2023:** Learned Python & built gesture-controlled apps
-- 📱 **2024:** Flutter + Firebase full-stack mobile apps
+- 📱 **2024:** Flutter + Firebase full-stack mobile apps; started exploring MQTT
 - 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA
 
+> Currently obsessed with making real-time systems talk over MQTT 🛰️
+
 ---
 
-### ⚒️ I Code With
+## ⚒️ I Code With
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
@@ -69,15 +70,15 @@
 
 ---
 
-### 🚧 Currently Working On
+## 🚧 Currently Working On
 
-- 🦾 Training an ESP32 to mimic hand gestures in real time
-- 🧪 Prototyping signal processing algorithms on real-world noisy data
-- 📲 Building a scheduler app with Firebase + Flutter + Local Notifications
+- 🦾 Training ESP32 to mimic hand gestures in real time
+- 🧪 Prototyping signal processing algorithms on noisy data
+- 📲 Scheduler app with Firebase + Flutter + Local Notifications
 
 ---
 
-### 📌 My Projects & Status
+## 📌 My Projects
 
 <p align="left">
   <a href="https://github.com/ficrammanifur/robotic-hand-prototype">
@@ -89,14 +90,11 @@
   <a href="https://github.com/ficrammanifur/Gesture-Clone-Robot">
     <img src="https://img.shields.io/badge/🤖 Gesture_Clone_Robot-Active-green?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/ficrammanifur/flutter-project">
-    <img src="https://img.shields.io/badge/📦 Flutter_Project-Prototype-yellow?style=for-the-badge&logo=flutter" />
-  </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&show_icons=true&theme=dark&hide_border=true" height="165" />
@@ -105,14 +103,13 @@
 
 ---
 
-### 🎧 Spotify Now Playing
+## 🎧 Spotify Now Playing
 
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
     <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
@@ -121,7 +118,7 @@
 
 ---
 
-### 🐍 Snake Game (because commits should be fun)
+## 🐍 Snake Game (for fun)
 
 <p align="center">
   <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/Snake.yml/badge.svg" />
@@ -132,31 +129,18 @@
 
 ---
 
-### 📬 Reach Me
+## 📬 Reach Me
 
 📧 Email: [ficramm@gmail.com](mailto:ficramm@gmail.com)  
 📸 Instagram: [@ficrammanifur](https://instagram.com/ficrammanifur)
 
 ---
 
-### 💡 Did You Know?
-
-<details>
-  <summary>Click for weird facts about my dev life 😅</summary>
-  <ul>
-    <li>ESP32 once ghosted me mid-demo — we're still not speaking</li>
-    <li>I once debugged a bug for 3 hours, turns out I forgot to save the file</li>
-    <li>My robotic hand prototype once tried to high-five my face</li>
-  </ul>
-</details>
-
-> 🧠 _"What if your maximum is someone's minimum."_  
+> 🧠 _"What if your maximum is someone’s minimum."_  
 > 💬 _"Keep building. Keep debugging. Great ideas begin where comfort ends."_
 
 ---
 
 <div align="center">
-  <sub><i>This README file is generated every 12 hours!</i></sub>  
-  <br>
-  <sub><i>Last refresh: Thursday, 10 July 2025, 14:25 GMT+7</i></sub>
+  <sub><i>Last updated: July 2025</i></sub>
 </div>
