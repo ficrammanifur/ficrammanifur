@@ -34,7 +34,7 @@
 
 ## 🧠 About Me
 
-✨ Creating bugs professionally since 2022 (the ones I can't fix, I just call features 😅)  
+✨ Creating bugs professionally since 2024 (the ones I can't fix, I just call features 😅)  
 📚 Learning how to make wires smarter — currently digging into FPGA, signal processing, and MQTT  
 🎯 Mission: Build an intelligent robotic hand that doesn't punch me when I upload new firmware  
 🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one session
@@ -43,11 +43,11 @@
 
 ## 🛠️ My Tech Journey
 
-- 🔌 **2022:** Started with Arduino & C++
-- 🐍 **2023:** Learned Python & built gesture-controlled apps
-- 📱 **2024:** Flutter + Firebase full-stack mobile apps
+- 🔌 **2024:** Started with Arduino, ESP32 & C++
+- 🐍 **2024 (mid):** Learned Python & built gesture-controlled apps
+- 📱 **2024 (late):** Flutter + Firebase full-stack mobile apps
 - 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA
-- 📡 **Now:** Very interested in diving deeper into MQTT & IoT data pipelines
+- 📡 **Now:** Deepening knowledge in MQTT & real-time IoT pipelines
 
 ---
 
@@ -71,6 +71,7 @@
 
 ---
 
+
 ## 🚧 Currently Working On
 
 - 🦾 Training an ESP32 to mimic hand gestures in real time
@@ -92,6 +93,33 @@
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)  
 ![License](https://img.shields.io/badge/license-MIT-blue)
+
+---
+
+### 🎧 Spotify Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/ficramm">
+    <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/ficramm">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
+### 🐍 Snake Game (because commits should be fun)
+
+<p align="center">
+  <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/Snake.yml/badge.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
