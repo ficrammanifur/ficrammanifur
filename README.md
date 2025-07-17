@@ -68,6 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;
   <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="40" alt="Vercel" />&nbsp;
   <img src="https://www.svgrepo.com/show/354237/pycharm.svg" width="40" alt="PyCharm" />&nbsp;
+  <img src="https://www.svgrepo.com/show/231792/railroad-railway.svg" width="40" alt="Railway" />&nbsp;
 </p>
 
 ---
