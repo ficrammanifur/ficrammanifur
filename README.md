@@ -53,26 +53,11 @@
 
 ## 💻 Tech Stack
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
-<!-- Platforms & Tools -->
-<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-<img src="https://img.shields.io/badge/GitHub%20Pages-%23333.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/MySQL-%230070C0.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Arduino-%232C3E50.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/OpenCV-%23007AFF.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-
+<!-- Row 1: penuh -->
+| <img src="https://img.shields.io/badge/-C-00559C?style=for-the-badge&logo=c&logoColor=white"/> | <img src="https://img.shields.io/badge/-C++-00559C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> | <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> | <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/> | <img src="https://img.shields.io/badge/-GitHub%20Pages-333?style=for-the-badge&logo=github&logoColor=white"/> | <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> | <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> | <img src="https://img.shields.io/badge/-MySQL-0070C0?style=for-the-badge&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> | <img src="https://img.shields.io/badge/-GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/> | <img src="https://img.shields.io/badge/-Arduino-2C3E50?style=for-the-badge&logo=arduino&logoColor=white"/> |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+<!-- Row 2: satu badge -->
+|         |         |         |         |         |         |         |         |         |         |         |         |         |         | <img src="https://img.shields.io/badge/-OpenCV-007AFF?style=for-the-badge&logo=opencv&logoColor=white"/> |
 
 ---
 
