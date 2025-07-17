@@ -54,7 +54,6 @@
 ## ⚒️ I Code With
 
 <p align="left">
-  <!-- Existing icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart" />&nbsp;
@@ -67,9 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;
-
-  <!-- Vercel SVG (MIT license via Radix UI) -->
   <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="40" alt="Vercel" />&nbsp;
+  <img src="https://www.svgrepo.com/show/354237/pycharm.svg" width="40" alt="PyCharm" />&nbsp;
 </p>
 
 ---
