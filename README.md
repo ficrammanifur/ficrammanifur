@@ -68,7 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;
   <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="40" alt="Vercel" />&nbsp;
   <img src="https://www.svgrepo.com/show/354237/pycharm.svg" width="40" alt="PyCharm" />&nbsp;
-  <img src="https://mqtt.org/wp-content/uploads/2020/12/mqtt-hor.svg" width="40" alt="MQTT" />&nbsp;
+  <img src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/master/svg/mqtt-hor.svg" width="40" alt="MQTT" />&nbsp;
   <!-- Railway brand icon -->
   <img src="https://railway.com/favicon.ico" width="40" alt="Railway" />&nbsp;
 </p>
