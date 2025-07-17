@@ -66,6 +66,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;
+  <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="40" alt="Vercel" />&nbsp;
+  <img src="https://www.svgrepo.com/show/354237/pycharm.svg" width="40" alt="PyCharm" />&nbsp;
+  <img src="https://mqtt.org/wp-content/uploads/2020/12/mqtt-hor.svg" width="40" alt="MQTT" />&nbsp;
   <!-- Railway brand icon -->
   <img src="https://railway.com/favicon.ico" width="40" alt="Railway" />&nbsp;
 </p>
