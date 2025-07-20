@@ -47,7 +47,7 @@
 - 🐍 **2024 (mid):** Learned Python & built gesture-controlled apps
 - 📱 **2024 (late):** Flutter + Firebase full-stack mobile apps
 - 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA
-- 📡 **Now:** Deepening knowledge in MQTT & real-time IoT pipelines
+- 📡 **Now:** Deepening knowledge in 𝙼𝚀𝚃𝚃 & real-time IoT pipelines
 
 ---
 
