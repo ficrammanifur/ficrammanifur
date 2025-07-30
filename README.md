@@ -29,7 +29,15 @@
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Electrical+Engineering+Student;Making+ESP32+🤖" alt="Typing SVG" />
 </div>
-
+<p align="center">
+  <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
+    <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
+  </a>
+  <a href="https://github.com/ficrammanifur/ficrammanifur/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" />
+  </a>
+</p>
+  
 ---
 
 ## 🧠 About Me
@@ -117,17 +125,6 @@
   </a>
 </p>
 
----
-## 📝 License & Build Status
-<p align="center">
-  <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
-    <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
-  </a>
-  <a href="https://github.com/ficrammanifur/ficrammanifur/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" />
-  </a>
-</p>
-  
 ---
 
 ### 🎧 Spotify Now Playing
