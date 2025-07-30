@@ -66,35 +66,35 @@
 
 ### 🚀 Technologies
 
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)  
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=009688)  
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)  
-![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif&logoColor=E7352C)  
-![MQTT](https://img.shields.io/badge/-MQTT-000?&logo=eclipse-mosquitto&logoColor=3C5280)  
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=00979D)  
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=009688)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
+![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif&logoColor=E7352C)
+![MQTT](https://img.shields.io/badge/-MQTT-000?&logo=eclipse-mosquitto&logoColor=3C5280)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=00979D)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
 ### 📱 Full Stack / IoT Projects
 
-[![](https://img.shields.io/badge/-📦%20PastryStock-000)](https://github.com/ficrammanifur/PastryStock)  
-[![](https://img.shields.io/badge/-🤖%20Gesture%20Clone%20Robot-000)](https://github.com/ficrammanifur/Gesture-Clone-Robot)  
-[![](https://img.shields.io/badge/-🧠%20Schedule%20Assistant%20App-000)](https://github.com/ficrammanifur/schedule-assistant-app)  
-[![](https://img.shields.io/badge/-🧪%20Tofico%20Analyzer-000)](https://github.com/ficrammanifur/tofico-analyzer)  
-[![](https://img.shields.io/badge/-🧼%20Filling%20Machine%20w/ESP32-000)](https://github.com/ficrammanifur/filling-machine)  
+[![](https://img.shields.io/badge/-📦%20PastryStock-000)](https://github.com/ficrammanifur/PastryStock)
+[![](https://img.shields.io/badge/-🤖%20Gesture%20Clone%20Robot-000)](https://github.com/ficrammanifur/Gesture-Clone-Robot)
+[![](https://img.shields.io/badge/-🧠%20Schedule%20Assistant%20App-000)](https://github.com/ficrammanifur/schedule-assistant-app)
+[![](https://img.shields.io/badge/-🧪%20Tofico%20Analyzer-000)](https://github.com/ficrammanifur/tofico-analyzer)
+[![](https://img.shields.io/badge/-🧼%20Filling%20Machine%20w/ESP32-000)](https://github.com/ficrammanifur/filling-machine)
 [![](https://img.shields.io/badge/-🧲%20Control%20Motor%20via%20Dabble-000)](https://github.com/ficrammanifur/Control-Motor-With-DABBLE-APP)
 
 ---
 
 ### 🧠 AI & Data Projects
 
-[![](https://img.shields.io/badge/-📈%20ARIMA%20Stock%20Forecasting-000)](https://github.com/ficrammanifur/PastryStock)  
-[![](https://img.shields.io/badge/-🎯%20MCDM%20with%20SAW%20%26%20WP-000)](https://github.com/ficrammanifur/tofico-analyzer)  
+[![](https://img.shields.io/badge/-📈%20ARIMA%20Stock%20Forecasting-000)](https://github.com/ficrammanifur/PastryStock)
+[![](https://img.shields.io/badge/-🎯%20MCDM%20with%20SAW%20%26%20WP-000)](https://github.com/ficrammanifur/tofico-analyzer)
 [![](https://img.shields.io/badge/-📊%20Statistical%20Data%20Analyzer-000)](https://github.com/ficrammanifur)
 
 ---
