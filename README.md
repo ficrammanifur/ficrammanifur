@@ -62,7 +62,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 
----
 
 ### 🚀 Technologies
 
@@ -78,7 +77,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=007ACC)
 
----
 
 ### 📱 Full Stack / IoT Projects
 
@@ -89,7 +87,6 @@
 [![](https://img.shields.io/badge/-🧼%20Filling%20Machine%20w/ESP32-000)](https://github.com/ficrammanifur/filling-machine)
 [![](https://img.shields.io/badge/-🧲%20Control%20Motor%20via%20Dabble-000)](https://github.com/ficrammanifur/Control-Motor-With-DABBLE-APP)
 
----
 
 ### 🧠 AI & Data Projects
 
@@ -97,7 +94,6 @@
 [![](https://img.shields.io/badge/-🎯%20MCDM%20with%20SAW%20%26%20WP-000)](https://github.com/ficrammanifur/tofico-analyzer)
 [![](https://img.shields.io/badge/-📊%20Statistical%20Data%20Analyzer-000)](https://github.com/ficrammanifur)
 
----
 
 ### 🌐 Live Demo
 
