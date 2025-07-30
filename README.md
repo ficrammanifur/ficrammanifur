@@ -1,42 +1,37 @@
 <div align="center">
+
   <h1 style="margin-bottom: 10px;">
     Hey there 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> 
-    What's up?
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" />
+    Welcome!
   </h1>
-  
+
   <h2 style="margin-bottom: 0;">
-    My name is
-    <span style="vertical-align: middle; display: inline-block;">
-      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">
-        <svg width="300" height="40" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="neonStatic" x1="0%" y1="0%" x2="100%" y2="0%">
-              <stop offset="0%" stop-color="#39ff14" />
-              <stop offset="50%" stop-color="#00f0ff" />
-              <stop offset="100%" stop-color="#8e2de2" />
-            </linearGradient>
-          </defs>
-          <text x="0" y="30" font-size="28" font-family="Arial, sans-serif" font-weight="bold" fill="url(#neonStatic)">
-            Ficrammanifur
-          </text>
-        </svg>
-      </a>
-    </span>
+    I'm 
+    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank" style="text-decoration: none;">
+      <span style="color: #9333EA; font-weight: bold;">Ficrammanifur</span>
+    </a>
   </h2>
+
+  <p><em>Electrical Engineering Student · Embedded Systems · AI Enthusiast</em></p>
 
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Electrical+Engineering+Student;Making+ESP32+🤖" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Electrical+Engineering+Student;ESP32+%2B+Robotics+%2B+AI;Flutter+%2B+Firebase+%2B+Flask+Lover" alt="Typing SVG" />
+
+  <br><br>
+
+  <p>
+    <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
+      <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
+    </a>
+    <a href="https://github.com/ficrammanifur/ficrammanifur/blob/main/LICENSE">
+      <img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" />
+    </a>
+  </p>
+
 </div>
-<p align="center">
-  <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
-    <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
-  </a>
-  <a href="https://github.com/ficrammanifur/ficrammanifur/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" />
-  </a>
-</p>
   
 ---
 
@@ -59,7 +54,7 @@
 
 ---
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -71,7 +66,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 
 
-### 🚀 Technologies
+## 🚀 Technologies
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
@@ -86,7 +81,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=007ACC)
 
 
-### 📱 Full Stack / IoT Projects
+## 📱 Full Stack / IoT Projects
 
 [![](https://img.shields.io/badge/-📦%20PastryStock-000)](https://github.com/ficrammanifur/PastryStock)
 [![](https://img.shields.io/badge/-🤖%20Gesture%20Clone%20Robot-000)](https://github.com/ficrammanifur/Gesture-Clone-Robot)
@@ -96,14 +91,14 @@
 [![](https://img.shields.io/badge/-🧲%20Control%20Motor%20via%20Dabble-000)](https://github.com/ficrammanifur/Control-Motor-With-DABBLE-APP)
 
 
-### 🧠 AI & Data Projects
+## 🧠 AI & Data Projects
 
 [![](https://img.shields.io/badge/-📈%20ARIMA%20Stock%20Forecasting-000)](https://github.com/ficrammanifur/PastryStock)
 [![](https://img.shields.io/badge/-🎯%20MCDM%20with%20SAW%20%26%20WP-000)](https://github.com/ficrammanifur/tofico-analyzer)
 [![](https://img.shields.io/badge/-📊%20Statistical%20Data%20Analyzer-000)](https://github.com/ficrammanifur)
 
 
-### 🌐 Live Demo
+## 🌐 Live Demo
 
 [![](https://img.shields.io/badge/-🌍%20Tofico%20Analyzer%20(Online)-000)](https://fidelmutiara.github.io/tofico-analyzer/)
 
