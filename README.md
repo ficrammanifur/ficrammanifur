@@ -1,27 +1,15 @@
 <div align="center">
-
-  <h1 style="margin-bottom: 10px;">
-    Hey there 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" />
-    Welcome!
+  <h1>
+    Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> Welcome!
   </h1>
-
-  <h2 style="margin-bottom: 0;">
-    I'm 
-    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank" style="text-decoration: none;">
-      <span style="color: #9333EA; font-weight: bold;">Ficrammanifur</span>
-    </a>
+  <h2>
+    I'm <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>
   </h2>
-
   <p><em>Electrical Engineering Student · Embedded Systems · AI Enthusiast</em></p>
-
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count" />
   <br><br>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Electrical+Engineering+Student;ESP32+%2B+Robotics+%2B+AI;Flutter+%2B+Firebase+%2B+Flask+Lover" alt="Typing SVG" />
-
   <br><br>
-
   <p>
     <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
       <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
@@ -30,17 +18,19 @@
       <img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" />
     </a>
   </p>
-
 </div>
-  
+
 ---
 
 ## 🧠 About Me
 
-✨ 𝙲𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚋𝚞𝚐𝚜 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕𝚕𝚢 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟸𝟺 (𝚝𝚑𝚎 𝚘𝚗𝚎𝚜 𝙸 𝚌𝚊𝚗'𝚝 𝚏𝚒𝚡, 𝙸 𝚓𝚞𝚜𝚝 𝚌𝚊𝚕𝚕 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜 😅)   
-📚 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚑𝚘𝚠 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚠𝚒𝚛𝚎𝚜 𝚜𝚖𝚊𝚛𝚝𝚎𝚛 — 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚒𝚐𝚐𝚒𝚗𝚐 𝚒𝚗𝚝𝚘 𝙵𝙿𝙶𝙰, 𝚜𝚒𝚐𝚗𝚊𝚕 𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚒𝚗𝚐, 𝚊𝚗𝚍 𝙼𝚀𝚃𝚃   
-🎯 𝙼𝚒𝚜𝚜𝚒𝚘𝚗: 𝙱𝚞𝚒𝚕𝚍 𝚊𝚗 𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚝 𝚛𝚘𝚋𝚘𝚝𝚒𝚌 𝚑𝚊𝚗𝚍 𝚝𝚑𝚊𝚝 𝚍𝚘𝚎𝚜𝚗'𝚝 𝚙𝚞𝚗𝚌𝚑 𝚖𝚎 𝚠𝚑𝚎𝚗 𝙸 𝚞𝚙𝚕𝚘𝚊𝚍 𝚗𝚎𝚠 𝚏𝚒𝚛𝚖𝚠𝚊𝚛𝚎   
-🎲 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚌𝚊𝚗 𝚍𝚎𝚋𝚞𝚐 𝙵𝚕𝚞𝚝𝚝𝚎𝚛, 𝚛𝚎𝚏𝚕𝚘𝚠 𝚜𝚘𝚕𝚍𝚎𝚛, 𝚊𝚗𝚍 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚎𝚊𝚝 — 𝚊𝚕𝚕 𝚒𝚗 𝚘𝚗𝚎 𝚜𝚎𝚜𝚜𝚒𝚘𝚗
+✨ Creating bugs professionally since 2024 (the ones I can't fix, I just call features 😅)
+
+📚 Learning how to make wires smarter — currently digging into FPGA, signal processing, and MQTT
+
+🎯 Mission: Build an intelligent robotic hand that doesn't punch me when I upload new firmware
+
+🎲 Fun fact: I can debug Flutter, reflow solder, and forget to eat — all in one session
 
 ---
 
@@ -50,57 +40,53 @@
 - 🐍 **2024 (mid):** Learned Python & built gesture-controlled apps
 - 📱 **2024 (late):** Flutter + Firebase full-stack mobile apps
 - 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA
-- 📡 **Now:** Deepening knowledge in 𝙼𝚀𝚃𝚃 & real-time IoT pipelines
+- 📡 **Now:** Deepening knowledge in MQTT & real-time IoT pipelines
 
 ---
 
-## Languages
+## 💻 Skills & Technologies
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
+### Frameworks & Tools
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-## 🚀 Technologies
+---
 
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=009688)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
-![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif&logoColor=E7352C)
-![MQTT](https://img.shields.io/badge/-MQTT-000?&logo=eclipse-mosquitto&logoColor=3C5280)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=00979D)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=007ACC)
+## 🚀 My Projects
 
+### 📱 Full Stack / IoT
+- [📦 PastryStock](https://github.com/ficrammanifur/PastryStock)
+- [🤖 Gesture Clone Robot](https://github.com/ficrammanifur/Gesture-Clone-Robot)
+- [🧠 Schedule Assistant App](https://github.com/ficrammanifur/schedule-assistant-app)
+- [🧪 Tofico Analyzer](https://github.com/ficrammanifur/tofico-analyzer)
+- [🧼 Filling Machine w/ESP32](https://github.com/ficrammanifur/filling-machine)
+- [🧲 Control Motor via Dabble](https://github.com/ficrammanifur/Control-Motor-With-DABBLE-APP)
 
-## 📱 Full Stack / IoT Projects
+### 🧠 AI & Data
+- [📈 ARIMA Stock Forecasting](https://github.com/ficrammanifur/PastryStock)
+- [🎯 MCDM with SAW & WP](https://github.com/ficrammanifur/tofico-analyzer)
+- [📊 Statistical Data Analyzer](https://github.com/ficrammanifur)
 
-[![](https://img.shields.io/badge/-📦%20PastryStock-000)](https://github.com/ficrammanifur/PastryStock)
-[![](https://img.shields.io/badge/-🤖%20Gesture%20Clone%20Robot-000)](https://github.com/ficrammanifur/Gesture-Clone-Robot)
-[![](https://img.shields.io/badge/-🧠%20Schedule%20Assistant%20App-000)](https://github.com/ficrammanifur/schedule-assistant-app)
-[![](https://img.shields.io/badge/-🧪%20Tofico%20Analyzer-000)](https://github.com/ficrammanifur/tofico-analyzer)
-[![](https://img.shields.io/badge/-🧼%20Filling%20Machine%20w/ESP32-000)](https://github.com/ficrammanifur/filling-machine)
-[![](https://img.shields.io/badge/-🧲%20Control%20Motor%20via%20Dabble-000)](https://github.com/ficrammanifur/Control-Motor-With-DABBLE-APP)
-
-
-## 🧠 AI & Data Projects
-
-[![](https://img.shields.io/badge/-📈%20ARIMA%20Stock%20Forecasting-000)](https://github.com/ficrammanifur/PastryStock)
-[![](https://img.shields.io/badge/-🎯%20MCDM%20with%20SAW%20%26%20WP-000)](https://github.com/ficrammanifur/tofico-analyzer)
-[![](https://img.shields.io/badge/-📊%20Statistical%20Data%20Analyzer-000)](https://github.com/ficrammanifur)
-
-
-## 🌐 Live Demo
-
-[![](https://img.shields.io/badge/-🌍%20Tofico%20Analyzer%20(Online)-000)](https://fidelmutiara.github.io/tofico-analyzer/)
+### 🌐 Live Demos
+- [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
 
 ---
 
@@ -113,10 +99,11 @@
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/ficrammanifur">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" />
   </a>
 </p>
 
@@ -129,7 +116,6 @@
     <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
@@ -149,14 +135,26 @@
 
 ---
 
-## 📬 Reach Me
+## 📬 Connect With Me
 
-📧 Email: [ficramm@gmail.com](mailto:ficramm@gmail.com)  
-📸 Instagram: [@ficrammanifur](https://instagram.com/ficrammanifur)
+<p align="center">
+  <a href="mailto:ficramm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/ficrammanifur" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/ficrammanifur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ficrammanifur" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-> 🧠 _"What if your maximum is someone's minimum."_  
+> 🧠 _"What if your maximum is someone's minimum."_
 > 💬 _"Keep building. Keep debugging. Great ideas begin where comfort ends."_
 
 <div align="center">
