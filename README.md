@@ -50,7 +50,8 @@
 - 📡 **Now:** Deepening knowledge in 𝙼𝚀𝚃𝚃 & real-time IoT pipelines
 
 ---
-## Languages
+
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -62,27 +63,45 @@
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 
 ---
-## ⚒️ Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;
-  <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="40" alt="Vercel" />&nbsp;
-  <img src="https://www.svgrepo.com/show/354237/pycharm.svg" width="40" alt="PyCharm" />&nbsp;
-  <img src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/master/svg/mqtt-hor.svg" width="40" alt="MQTT" />&nbsp;
-  <!-- Railway brand icon -->
-  <img src="https://railway.com/favicon.ico" width="40" alt="Railway" />&nbsp;
-</p>
+### 🚀 Technologies
+
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)  
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=009688)  
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)  
+![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif&logoColor=E7352C)  
+![MQTT](https://img.shields.io/badge/-MQTT-000?&logo=eclipse-mosquitto&logoColor=3C5280)  
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=00979D)  
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+### 📱 Full Stack / IoT Projects
+
+[![](https://img.shields.io/badge/-📦%20PastryStock-000)](https://github.com/ficrammanifur/PastryStock)  
+[![](https://img.shields.io/badge/-🤖%20Gesture%20Clone%20Robot-000)](https://github.com/ficrammanifur/Gesture-Clone-Robot)  
+[![](https://img.shields.io/badge/-🧠%20Schedule%20Assistant%20App-000)](https://github.com/ficrammanifur/schedule-assistant-app)  
+[![](https://img.shields.io/badge/-🧪%20Tofico%20Analyzer-000)](https://github.com/ficrammanifur/tofico-analyzer)  
+[![](https://img.shields.io/badge/-🧼%20Filling%20Machine%20w/ESP32-000)](https://github.com/ficrammanifur/filling-machine)  
+[![](https://img.shields.io/badge/-🧲%20Control%20Motor%20via%20Dabble-000)](https://github.com/ficrammanifur/Control-Motor-With-DABBLE-APP)
+
+---
+
+### 🧠 AI & Data Projects
+
+[![](https://img.shields.io/badge/-📈%20ARIMA%20Stock%20Forecasting-000)](https://github.com/ficrammanifur/PastryStock)  
+[![](https://img.shields.io/badge/-🎯%20MCDM%20with%20SAW%20%26%20WP-000)](https://github.com/ficrammanifur/tofico-analyzer)  
+[![](https://img.shields.io/badge/-📊%20Statistical%20Data%20Analyzer-000)](https://github.com/ficrammanifur)
+
+---
+
+### 🌐 Live Demo
+
+[![](https://img.shields.io/badge/-🌍%20Tofico%20Analyzer%20(Online)-000)](https://fidelmutiara.github.io/tofico-analyzer/)
 
 ---
 
