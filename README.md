@@ -87,6 +87,7 @@
 
 ### 🌐 Live Demos
 - [🚰 FILLING MACHINE WEB CONTROL (Online)](https://ficrammanifur.github.io/Filling-Machine-Web-Control/)
+- [🐔 Sistem Pakan Ayam Otomatis dengan ESP32 (Online)](https://ficrammanifur.github.io/Pakan-Ayam-Otomatis/)
 - [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
 
 ---
