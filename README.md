@@ -152,6 +152,7 @@
 ---
 
 > 🧠 _"What if your maximum is someone's minimum."_
+
 > 💬 _"Keep building. Keep debugging. Great ideas begin where comfort ends."_
 
 <div align="center">
