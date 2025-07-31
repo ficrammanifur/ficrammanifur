@@ -74,7 +74,7 @@
 
 ### 📱 Full Stack / IoT
 - [📦 PastryStock](https://github.com/ficrammanifur/PastryStock)
-- [🤖 Gesture Clone Robot](https://github.com/ficrammanifur/Gesture-Clone-Robot)
+- [🖐️ Gesture Clone Robot](https://github.com/ficrammanifur/Gesture-Clone-Robot)
 - [🧠 Schedule Assistant App](https://github.com/ficrammanifur/schedule-assistant-app)
 - [🧪 Tofico Analyzer](https://github.com/ficrammanifur/tofico-analyzer)
 - [🧼 Filling Machine w/ESP32](https://github.com/ficrammanifur/filling-machine)
