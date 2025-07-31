@@ -86,6 +86,7 @@
 - [📊 Statistical Data Analyzer](https://github.com/ficrammanifur)
 
 ### 🌐 Live Demos
+- [🚰 FILLING MACHINE WEB CONTROL (Online)](https://ficrammanifur.github.io/Filling-Machine-Web-Control/)
 - [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
 
 ---
