@@ -73,15 +73,15 @@
 ## 🚀 My Projects
 
 ### 📱 Full Stack / IoT
-- [📦 PastryStock](https://github.com/ficrammanifur/PastryStock)
+- [📦 PastryStock](https://github.com/ficrammanifur/flutter-project/tree/main/PastryStock)
 - [🖐️ Gesture Clone Robot](https://github.com/ficrammanifur/Gesture-Clone-Robot)
-- [🧠 Schedule Assistant App](https://github.com/ficrammanifur/schedule-assistant-app)
+- [🧠 Schedule Assistant App](https://github.com/ficrammanifur/flutter-project/tree/main/Asistant%20Penjadwalan)
 - [🧪 Tofico Analyzer](https://github.com/ficrammanifur/tofico-analyzer)
 - [🧼 Filling Machine w/ESP32](https://github.com/ficrammanifur/filling-machine)
 - [🧲 Control Motor via Dabble](https://github.com/ficrammanifur/Control-Motor-With-DABBLE-APP)
 
 ### 🧠 AI & Data
-- [📈 ARIMA Stock Forecasting]([https://github.com/ficrammanifur/PastryStock](https://github.com/ficrammanifur/flutter-project/tree/main/PastryStock))
+- [📈 ARIMA Stock Forecasting](https://github.com/ficrammanifur/flutter-project/tree/main/PastryStock)
 - [🎯 MCDM with SAW & WP](https://github.com/ficrammanifur/tofico-analyzer)
 - [📊 Statistical Data Analyzer](https://github.com/ficrammanifur)
 
