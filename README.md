@@ -81,7 +81,7 @@
 - [🧲 Control Motor via Dabble](https://github.com/ficrammanifur/Control-Motor-With-DABBLE-APP)
 
 ### 🧠 AI & Data
-- [📈 ARIMA Stock Forecasting](https://github.com/ficrammanifur/PastryStock)
+- [📈 ARIMA Stock Forecasting]([https://github.com/ficrammanifur/PastryStock](https://github.com/ficrammanifur/flutter-project/tree/main/PastryStock))
 - [🎯 MCDM with SAW & WP](https://github.com/ficrammanifur/tofico-analyzer)
 - [📊 Statistical Data Analyzer](https://github.com/ficrammanifur)
 
