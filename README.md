@@ -8,7 +8,7 @@
   <p><em>Electrical Engineering Student · Embedded Systems · AI Enthusiast</em></p>
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Electrical+Engineering+Student;ESP32+%2B+Robotics+%2B+AI;Flutter+%2B+Firebase+%2B+Flask+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Electrical+Engineering+Student;ESP32+%2B+Robotics" alt="Typing SVG" />
   <br><br>
   <p>
     <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
