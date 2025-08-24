@@ -136,5 +136,5 @@
 <div align="center">
 <p><a href="#top">⬆ Back on Top</a></p> 
   
-  <sub><i>Last Updated: 24 August 2025, Jakarta (WIB, UTC+7)</i></sub>
+  <sub><i>Last Updated: 24 August 2025 (UTC+7)</i></sub>
 </div>
