@@ -11,9 +11,6 @@
     <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
       <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
     </a>
-    <a href="https://github.com/ficrammanifur/ficrammanifur/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" />
-    </a>
   </p>
 </div>
 
