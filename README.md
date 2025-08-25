@@ -108,7 +108,7 @@
   ">
     <!-- Prompt line -->
     <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:12px;">
-      <span style="color:#00e676;">ficrammanifur@linuxD</span>:<span style="color:#00e5ff;">$</span>
+      <span style="color:#00e676;">ficrammanifur@linuxD</span>:<span style="color:#00e5ff;"></span>
     </div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
