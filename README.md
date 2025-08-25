@@ -94,16 +94,36 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/ficrammanifur">
-    <!-- GitHub Stats -->
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&cache_seconds=1800" alt="GitHub Stats" />
-    <!-- Top Languages -->
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=1800" alt="Top Languages" />
-    <!-- Streak Stats -->
-    <img height="137px" src="https://streak-stats.demolab.com?user=ficrammanifur&theme=highcontrast&hide_border=true&background=45,ff4d4d,ffa64d,ffff4d,4dff4d,4dd2ff,c64dff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
+
+  <!-- Terminal-like container -->
+  <div style="
+    max-width: 980px;
+    margin:auto;
+    background: rgba(40, 44, 52, 0.65);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 16px;
+    padding: 16px 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  ">
+    <!-- Prompt line -->
+    <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:12px;">
+      <span style="color:#00e676;">ficrammanifur@linuxD</span>:<span style="color:#00e5ff;">$</span> cat stats.txt
+    </div>
+    <!-- Cards (transparent) -->
+    <a href="https://github.com/ficrammanifur">
+      <!-- GitHub Stats -->
+      <img height="137" alt="GitHub Stats"
+           src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=e6edf3&icon_color=e6edf3&bg_color=00000000&theme=transparent&cache_seconds=1800" />
+      <!-- Top Languages -->
+      <img height="137" alt="Top Languages"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=e6edf3&icon_color=e6edf3&bg_color=00000000&theme=transparent&cache_seconds=1800" />
+      <!-- Streak (total contributions, current streak, longest streak) -->
+      <img height="137" alt="GitHub Streak"
+           src="https://streak-stats.demolab.com?user=ficrammanifur&hide_border=true&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=00000000" />
+    </a>
+  </div>
+</div>
 
 ---
 
