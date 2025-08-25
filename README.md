@@ -13,14 +13,6 @@
   </p>
 </div>
 
-## 🛠️ My Tech Journey
-
-- 🔌 **2024:** Started with Arduino, ESP32 & C++
-- 🐍 **2024 (mid):** Learned Python & built gesture-controlled apps
-- 📱 **2024 (late):** Flutter + Firebase full-stack mobile apps
-- 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA
-- 📡 **Now:** Deepening knowledge in MQTT & real-time IoT pipelines
-
 ## 💻 Skills & Technologies
 
 ### Languages
@@ -71,10 +63,13 @@
 - [🐔 Sistem Pakan Ayam Otomatis dengan ESP32 (Online)](https://ficrammanifur.github.io/Pakan-Ayam-Otomatis/)
 - [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
 
-## 🚀 Current Focus
-- 🦾 Robotic hand prototype (ESP32 + signal processing + real-time gestures)  
-- 📲 Scheduler App (Flutter + Firebase + Local Notifications)  
-- 🌐 IoT & MQTT pipelines with web monitoring  
+## 🛠️ My Tech Journey
+
+- 🔌 **2024:** Started with Arduino, ESP32 & C++
+- 🐍 **2024 (mid):** Learned Python & built gesture-controlled apps
+- 📱 **2024 (late):** Flutter + Firebase full-stack mobile apps
+- 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA
+- 📡 **Now:** Deepening knowledge in MQTT & real-time IoT pipelines
 
 ---
 
