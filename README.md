@@ -117,9 +117,11 @@
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
   ">
     <!-- Prompt line -->
-    <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:12px;">
-      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$ </span> Spotify
-    </div>
+<div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
+  <b>
+    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
+  </b> Spotify
+</div>
 
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
