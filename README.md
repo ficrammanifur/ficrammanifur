@@ -154,6 +154,10 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ficrammanifur&bg_color=20232a&color=ffffff&line=00e5ff&point=00ff5f&area=true&hide_border=true" />
+</p>
+
+<p align="center">
   <a href="mailto:ficramm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
