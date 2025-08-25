@@ -108,7 +108,7 @@
   ">
     <!-- Prompt line -->
     <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:12px;">
-      <span style="color:#00e676;">ficrammanifur@linuxD</span>:<span style="color:#00e5ff;"></span>
+      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD</span>:<span style="color:#00ccff;"> /README.md/Stats$ </span> ./run Stats
     </div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
@@ -156,7 +156,7 @@
   ">
     <!-- Prompt line -->
     <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
-      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD</span>:<span style="color:#00ccff;">$</span> ./run ular
+      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD</span>:<span style="color:#00ccff;">/README.md/$ </span> ./run ular
     </div>
     <!-- Title -->
     <div style="font-size:16px; font-weight:600; color:#e6edf3; margin-bottom:12px;">
