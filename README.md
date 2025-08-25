@@ -77,6 +77,8 @@
 - 📲 Scheduler App (Flutter + Firebase + Local Notifications)  
 - 🌐 IoT & MQTT pipelines with web monitoring  
 
+---
+
 ### 📈 GitHub Stats
 <div align="center">
   <!-- Terminal-like container -->
@@ -123,8 +125,6 @@
 </p>
 
 ---
-
-### 🐍 Snake
 
 <div align="center">
   <!-- Terminal-like container -->
