@@ -84,11 +84,11 @@
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
   ">
     <!-- Prompt line -->
-<div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
-  <b>
-    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
-  </b> ./run Stats
-</div>
+    <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
+      <b>
+        <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
+      </b> ./run Stats
+    </div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
       <!-- GitHub Stats -->
@@ -99,10 +99,11 @@
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=e6edf3&icon_color=e6edf3&bg_color=00000000&theme=transparent&cache_seconds=1800" />
       <!-- Streak (total contributions, current streak, longest streak) -->
       <img height="137" alt="GitHub Streak"
-           src="https://streak-stats.demolab.com?user=ficrammanifur&hide_border=true&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=00000000" />
+           src="https://streak-stats.demolab.com?user=ficrammanifur&hide_border=true&ring=00e5ff&fire=00ff5f&currStreakLabel=00e5ff&currStreakNum=00ff5f&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=00000000" />
     </a>
   </div>
 </div>
+
 
 ---
 
