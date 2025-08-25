@@ -142,21 +142,37 @@
 
 ---
 
-### 🐍 Snake Game (because commits should be fun)
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/Snake.yml/badge.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg" />
-</p>
+  <!-- Terminal-like container -->
+  <div style="
+    max-width: 980px;
+    margin:auto;
+    background: rgba(40, 44, 52, 0.65);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 16px;
+    padding: 16px 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  ">
+    <!-- Prompt line -->
+    <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
+      <span style="color:#00ff5f;">ficrammanifur@linuxD</span>:<span style="color:#00ccff;">$</span> ./run ular
+    </div>
+    <!-- Title -->
+    <div style="font-size:16px; font-weight:600; color:#e6edf3; margin-bottom:12px;">
+      🐍 Hati-hati Ular Berbisa <span style="opacity:.7;">(banyak bisanya)</span>
+    </div>
+    <!-- Snake SVG -->
+    <div>
+      <img alt="GitHub Contribution Snake"
+           src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg"
+           style="max-width:100%; border-radius:12px;" />
+    </div>
+  </div>
+</div>
+
 
 ---
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ficrammanifur&bg_color=20232a&color=ffffff&line=00e5ff&point=00ff5f&area=true&hide_border=true&animation_duration=3000" />
-</p>
 
 <p align="center">
   <a href="mailto:ficramm@gmail.com">
