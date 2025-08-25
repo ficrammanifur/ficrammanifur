@@ -2,9 +2,6 @@
   <h1>
     Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> Welcome!
   </h1>
-  <h2>
-    I'm <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>
-  </h2>
   <p><em>Electrical Engineering Student · Embedded Systems · AI Enthusiast</em></p>
   <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count" />
   <br><br>
