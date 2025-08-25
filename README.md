@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count" />
   <h1>
     Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> Welcome!
   </h1>
@@ -11,6 +10,7 @@
     <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
       <img src="https://github.com/ficrammanifur/ficrammanifur/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
     </a>
+      <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count" />
   </p>
 </div>
 
