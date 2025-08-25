@@ -1,9 +1,9 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count" />
   <h1>
     Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave hand" /> Welcome!
   </h1>
   <p><em>Electrical Engineering Student · Embedded Systems · AI Enthusiast</em></p>
-  <img src="https://komarev.com/ghpvc/?username=ficrammanifur&style=flat-square&color=blue" alt="Visitor Count" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Electrical+Engineering+Student;ESP32+%2B+Robotics" alt="Typing SVG" />
   <br><br>
