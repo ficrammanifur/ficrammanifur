@@ -77,7 +77,7 @@
 - 📲 Scheduler App (Flutter + Firebase + Local Notifications)  
 - 🌐 IoT & MQTT pipelines with web monitoring  
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 <div align="center">
   <!-- Terminal-like container -->
   <div style="
@@ -108,6 +108,8 @@
   </div>
 </div>
 
+---
+
 ### 🎧 Spotify Now Playing
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
@@ -119,6 +121,10 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
+
+---
+
+### 🐍 Snake
 
 <div align="center">
   <!-- Terminal-like container -->
