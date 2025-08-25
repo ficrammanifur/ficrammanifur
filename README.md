@@ -155,14 +155,8 @@
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ficrammanifur&bg_color=20232a&color=ffffff&line=00e5ff&point=00ff5f&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ficrammanifur&bg_color=20232a&color=ffffff&line=00e5ff&point=00ff5f&area=true&hide_border=true&animation_duration=3000" />
 </p>
-
-<p align="center">
-  <!-- Snake Game -->
-  <img src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg" />
-</p>
-
 
 <p align="center">
   <a href="mailto:ficramm@gmail.com">
