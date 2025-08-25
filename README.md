@@ -44,7 +44,6 @@
 
 
 ## 🚀 My Projects
-
 ### 📱 Full Stack / IoT
 - [📦 PastryStock](https://github.com/ficrammanifur/flutter-project/tree/main/PastryStock)
 - [🖐️ Gesture Clone Robot](https://github.com/ficrammanifur/Gesture-Clone-Robot)
@@ -64,7 +63,6 @@
 - [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
 
 ## 🛠️ My Tech Journey
-
 - 🔌 **2024:** Started with Arduino, ESP32 & C++
 - 🐍 **2024 (mid):** Learned Python & built gesture-controlled apps
 - 📱 **2024 (late):** Flutter + Firebase full-stack mobile apps
