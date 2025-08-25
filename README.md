@@ -99,7 +99,7 @@
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=e6edf3&icon_color=e6edf3&bg_color=00000000&theme=transparent&cache_seconds=1800" />
       <!-- Streak (total contributions, current streak, longest streak) -->
       <img height="137" alt="GitHub Streak"
-           src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=transparent&custom_title=Streak" />
+     src="https://github-readme-streak-stats.herokuapp.com?user=ficrammanifur&hide_border=true&ring=00e5ff&fire=00ff5f&currStreakLabel=00e5ff&currStreakNum=00ff5f&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=00000000" />
     </a>
   </div>
 </div>
