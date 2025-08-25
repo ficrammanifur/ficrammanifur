@@ -136,6 +136,7 @@
     <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
+
 ---
 
 <div align="center">
