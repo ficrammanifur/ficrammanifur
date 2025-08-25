@@ -156,7 +156,7 @@
   ">
     <!-- Prompt line -->
     <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
-      <span style="color:#00ff5f;">ficrammanifur@linuxD</span>:<span style="color:#00ccff;">$</span> ./run ular
+      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD</span>:<span style="color:#00ccff;">$</span> ./run ular
     </div>
     <!-- Title -->
     <div style="font-size:16px; font-weight:600; color:#e6edf3; margin-bottom:12px;">
