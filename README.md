@@ -5,7 +5,7 @@
   </h1>
   <p><em>Electrical Engineering Student · Embedded Systems · AI Enthusiast</em></p>
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Welcome+To+My;README.md" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Welcome+To+My+README.md" alt="Typing SVG" />
   <br><br>
   <p>
     <a href="https://github.com/ficrammanifur/ficrammanifur/actions">
