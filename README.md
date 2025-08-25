@@ -149,9 +149,11 @@
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
   ">
     <!-- Prompt line -->
-    <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
-      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD</span>:<span style="color:#00ccff;">/README.md/$ </span> ./run ular
-    </div>
+<div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
+  <b>
+    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
+  </b> ./run ular
+</div>
     <!-- Title -->
     <div style="font-size:16px; font-weight:600; color:#e6edf3; margin-bottom:12px;">
       🐍 Hati-hati Ular Berbisa <span style="opacity:.7;">(banyak bisanya)</span>
