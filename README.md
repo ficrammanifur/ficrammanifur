@@ -157,7 +157,7 @@
 </div>
     <!-- Title -->
     <div style="font-size:20px; font-weight:600; color:#e6edf3; margin-bottom:12px;">
-      🐍 Hati-hati Ular Berbisa <span style="opacity:.7;">(banyak bisanya)</span>
+      ⚠️ Hati-hati Ular Berbisa <span style="opacity:.7;">(banyak bisanya 🐍)</span>
     </div>
     <!-- Snake SVG -->
     <div>
