@@ -105,6 +105,22 @@
 ---
 
 ### 🎧 Spotify Now Playing
+<div align="center">
+  <!-- Terminal-like container -->
+  <div style="
+    max-width: 980px;
+    margin:auto;
+    background: rgba(40, 44, 52, 0.65);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 16px;
+    padding: 16px 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  ">
+    <!-- Prompt line -->
+    <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:12px;">
+      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$ </span> Spotify
+    </div>
+
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
     <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
