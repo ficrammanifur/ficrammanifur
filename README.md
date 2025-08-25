@@ -14,8 +14,6 @@
   </p>
 </div>
 
----
-
 ## 🛠️ My Tech Journey
 
 - 🔌 **2024:** Started with Arduino, ESP32 & C++
@@ -23,8 +21,6 @@
 - 📱 **2024 (late):** Flutter + Firebase full-stack mobile apps
 - 🤖 **2025:** Robotic hand prototype & signal processing with ESP32 + FPGA
 - 📡 **Now:** Deepening knowledge in MQTT & real-time IoT pipelines
-
----
 
 ## 💻 Skills & Technologies
 
@@ -55,7 +51,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
----
 
 ## 🚀 My Projects
 
@@ -77,19 +72,13 @@
 - [🐔 Sistem Pakan Ayam Otomatis dengan ESP32 (Online)](https://ficrammanifur.github.io/Pakan-Ayam-Otomatis/)
 - [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
 
----
-
 ## 🚀 Current Focus
 - 🦾 Robotic hand prototype (ESP32 + signal processing + real-time gestures)  
 - 📲 Scheduler App (Flutter + Firebase + Local Notifications)  
 - 🌐 IoT & MQTT pipelines with web monitoring  
 
----
-
 ## 📈 GitHub Stats
-
 <div align="center">
-
   <!-- Terminal-like container -->
   <div style="
     max-width: 980px;
@@ -119,10 +108,7 @@
   </div>
 </div>
 
----
-
 ### 🎧 Spotify Now Playing
-
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
     <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
@@ -134,10 +120,7 @@
   </a>
 </p>
 
----
-
 <div align="center">
-
   <!-- Terminal-like container -->
   <div style="
     max-width: 980px;
@@ -167,8 +150,6 @@
   </div>
 </div>
 
-
----
 
 <p align="center">
   <a href="mailto:ficramm@gmail.com">
