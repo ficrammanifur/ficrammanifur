@@ -97,12 +97,13 @@
 <p align="center">
   <a href="https://github.com/ficrammanifur">
     <!-- GitHub Stats -->
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&cache_seconds=1800" alt="GitHub Stats" />
+    <!-- Top Languages -->
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=1800" alt="Top Languages" />
+    <!-- Streak Stats -->
     <img height="137px" src="https://streak-stats.demolab.com?user=ficrammanifur&theme=highcontrast&hide_border=true&background=45,ff4d4d,ffa64d,ffff4d,4dff4d,4dd2ff,c64dff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
   </a>
 </p>
-
 
 ---
 
