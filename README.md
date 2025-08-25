@@ -124,7 +124,7 @@
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
   </b> Spotify
 </div>
-
+<br>
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
     <img src="https://img.shields.io/badge/Now%20Playing-%F0%9F%8E%A7%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />
