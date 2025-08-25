@@ -102,7 +102,7 @@
   ">
     <!-- Prompt line -->
     <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:12px;">
-      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD</span>:<span style="color:#00ccff;"> /README.md/Stats$ </span> ./run Stats
+      <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$ </span> ./run Stats
     </div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
