@@ -154,7 +154,21 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ficrammanifur&bg_color=20232a&color=ffffff&line=00e5ff&point=00ff5f&area=true&hide_border=true" />
+  <svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="600" height="200" fill="rgba(40,44,52,0.65)" rx="12" />
+    <!-- Path grafik -->
+    <path d="M 0 150 Q 50 120, 100 140 T 200 100 T 300 120 T 400 80 T 500 100 T 600 70"
+          stroke="#00e5ff" stroke-width="3" fill="none">
+      <!-- Animasi path (dari kiri ke kanan) -->
+      <animate attributeName="stroke-dasharray" from="0,1000" to="1000,0" dur="5s" fill="freeze" />
+    </path>
+    <!-- Titik bergerak -->
+    <circle r="5" fill="#00ff5f">
+      <animateMotion dur="5s" fill="freeze" repeatCount="1"
+        path="M 0 150 Q 50 120, 100 140 T 200 100 T 300 120 T 400 80 T 500 100 T 600 70"/>
+    </circle>
+  </svg>
 </p>
 
 <p align="center">
