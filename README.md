@@ -76,7 +76,7 @@
   <!-- Terminal-like container -->
   <div style="
     max-width: 980px;
-    margin:auto;
+    margin: auto;
     background: rgba(40, 44, 52, 0.65);
     border: 1px solid rgba(255,255,255,0.08);
     border-radius: 16px;
@@ -84,7 +84,7 @@
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
   ">
     <!-- Prompt line -->
-    <div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
+    <div style="font-size: 14px; line-height: 1.4; color: #e6edf3; margin-bottom: 8px;">
       <b>
         <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
       </b> ./run Stats
@@ -97,8 +97,9 @@
       <!-- Top Languages -->
       <img height="137" alt="Top Languages"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=e6edf3&icon_color=e6edf3&bg_color=00000000&theme=transparent&cache_seconds=1800" />
-     <!-- Streak (total contributions, current streak, longest streak) --> 
-      <img height="137" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ficrammanifur&hide_border=true&ring=00e5ff&fire=00ff5f&currStreakLabel=00e5ff&currStreakNum=00ff5f&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=00000000" />
+      <!-- Streak (total contributions, current streak, longest streak) -->
+      <img height="137" alt="GitHub Streak"
+           src="https://github-readme-streak-stats.herokuapp.com/?user=ficrammanifur&hide_border=true&ring=00e5ff&fire=00ff5f&currStreakLabel=00e5ff&currStreakNum=00ff5f&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=00000000&theme=transparent" />
     </a>
   </div>
 </div>
