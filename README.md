@@ -101,7 +101,7 @@
   </div>
 </div>
     <!-- GitHub Streak Stats -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=highcontrast&hide_border=true&border_radius=3.5" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=microsoft-dark&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak" /></a>
 
 ---
 
