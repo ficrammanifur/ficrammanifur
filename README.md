@@ -100,6 +100,7 @@
 <!-- GitHub Streak Stats -->
 <img height="137" alt="GitHub Streak" 
      src="https://streak-stats.demolab.com?user=ficrammanifur&hide_border=true&ring=00e5ff&fire=00ff5f&currStreakLabel=00e5ff&currStreakNum=00ff5f&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=00000000&theme=transparent" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ficrammanifur&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
     </a>
   </div>
 </div>
