@@ -71,7 +71,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🎧 Github Stats
 <div align="center">
   <!-- Terminal-like container -->
   <div style="
