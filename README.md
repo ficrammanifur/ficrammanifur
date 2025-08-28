@@ -73,7 +73,6 @@
 
 ### 🎧 Github Stats
 <div align="center">
-    <!-- Prompt line -->
       <b>
         <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
       </b> ./run Stats
@@ -98,7 +97,7 @@
 
 ### 🎧 Spotify Now Playing
     <!-- Prompt line -->
-<div
+<div align="center">
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
   </b> Spotify
 </div>
