@@ -98,7 +98,8 @@
       <img height="137" alt="Top Languages"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=e6edf3&icon_color=e6edf3&bg_color=00000000&theme=transparent&cache_seconds=1800" />
 <!-- GitHub Streak Stats -->
-    <img height="137" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?        user=ficrammanifur&hide_border=true&ring=00e5ff&fire=00ff5f&currStreakLabel=00e5ff&currStreakNum=00ff5f&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=transparent&theme=transparent" />
+<img height="137" alt="GitHub Streak" 
+     src="https://streak-stats.demolab.com?user=ficrammanifur&hide_border=true&ring=00e5ff&fire=00ff5f&currStreakLabel=00e5ff&currStreakNum=00ff5f&sideNums=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=00000000&theme=transparent" />
     </a>
   </div>
 </div>
