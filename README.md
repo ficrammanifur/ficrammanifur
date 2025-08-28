@@ -97,11 +97,11 @@
       <!-- Top Languages -->
       <img height="137" alt="Top Languages"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=e6edf3&icon_color=e6edf3&bg_color=00000000&theme=transparent&cache_seconds=1800" />
-      <!-- GitHub Streak Stats -->
-      src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=radical" alt="GitHub Streak" />
     </a
   </div>
 </div>
+    <!-- GitHub Streak Stats -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=radical" alt="GitHub Streak" /></a>
 
 ---
 
