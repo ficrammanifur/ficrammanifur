@@ -76,7 +76,7 @@
       <b>
         <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
       </b> ./run Stats
-    </div>
+<div align="center">
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
       <!-- GitHub Stats -->
@@ -88,15 +88,16 @@
     </a
   </div>
 </div>
+<div align="center">
     <!-- GitHub Streak Stats -->
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak" />
     </a>
-   
+</div>
+
 ---
 
 ### 🎧 Spotify Now Playing
-    <!-- Prompt line -->
 <div align="center">
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
   </b> Spotify
@@ -122,7 +123,7 @@
   </b> ./run ular
 </div>
     <!-- Snake SVG -->
-    <div>
+    <div align="center">
       <img alt="GitHub Contribution Snake"
            src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg"
            style="max-width:100%; border-radius:12px;" />
