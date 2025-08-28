@@ -141,25 +141,10 @@
 
 ### ⚠️ Hati-hati Ular Berbisa (banyak bisanya)
 <div align="center">
-  <!-- Terminal-like container -->
-  <div style="
-    max-width: 980px;
-    margin:auto;
-    background: rgba(40, 44, 52, 0.65);
-    border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 16px;
-    padding: 16px 20px;
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
-  ">
     <!-- Prompt line -->
-<div style="font-size:14px; line-height:1.4; color:#e6edf3; margin-bottom:8px;">
-  <b>
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
   </b> ./run ular
 </div>
-    <!-- Title -->
-    <div style="font-size:20px; font-weight:600; color:#e6edf3; margin-bottom:12px;">
-    </div>
     <!-- Snake SVG -->
     <div>
       <img alt="GitHub Contribution Snake"
