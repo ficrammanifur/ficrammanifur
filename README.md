@@ -75,11 +75,7 @@
 
 <div align="center">
   <!-- Prompt line -->
-  <b>
-    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank" style="text-decoration:none; color:inherit;">
-      ficrammanifur@linuxD:~$
-    </a>
-  </b> ./run Stats
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
 </div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
