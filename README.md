@@ -71,9 +71,7 @@
 
 ---
 
-<div align="center">
-### 🎧 Github Stats
-</div>
+<h3 align="center"> Github Stats</h3>
   <div align="center">
     <!-- Prompt line -->
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
@@ -99,9 +97,7 @@
 
 ---
 
-<div align="center">
-### 🎧 Spotify Now Playing
-  </div>
+<h3 align="center">🎧 Spotify Now Playing</h3>
   <div align="center">
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
   </b> Spotify
@@ -120,9 +116,7 @@
 
 ---
 
-<div align="center">
-### ⚠️ Hati-hati Ular Berbisa (banyak bisanya)
-</div>
+<h3 align="center">⚠️ Hati-hati Ular Berbisa (banyak bisanya)</h3>
 <div align="center">
   <!-- Prompt line -->
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
