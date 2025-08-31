@@ -70,8 +70,11 @@
 - 📡 **Now:** Deepening knowledge in MQTT & real-time IoT pipelines
 
 ---
+
 <div align="center">
 ### 🎧 Github Stats
+</div>
+  <div align="center">
     <!-- Prompt line -->
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
   </b> ./run Stats
@@ -98,6 +101,8 @@
 
 <div align="center">
 ### 🎧 Spotify Now Playing
+  </div>
+  <div align="center">
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
   </b> Spotify
 </div>
@@ -114,9 +119,12 @@
 </p>
 
 ---
+
 <div align="center">
 ### ⚠️ Hati-hati Ular Berbisa (banyak bisanya)
-    <!-- Prompt line -->
+</div>
+<div align="center">
+  <!-- Prompt line -->
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
   </b> ./run ular
 </div>
