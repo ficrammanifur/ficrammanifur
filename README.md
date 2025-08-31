@@ -71,11 +71,11 @@
 
 ---
 
-<h3 align="center"> Github Stats</h3>
-
 <div align="center">
-  <!-- Prompt line -->
-  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
+  <b>ficrammanifur@linuxD:~$</b> ./run 
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/20/ffffff/github.png" alt="github"/> Stats
+  </a>
 </div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
@@ -96,13 +96,12 @@
 </div>
 
 ---
-
 <h3 align="center">🎧 Spotify Now Playing</h3>
-  <div align="center">
-    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
-  </b> Spotify
+
+<div align="center">
+  <!-- Prompt line -->
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> Spotify
 </div>
-<br>
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
@@ -119,8 +118,7 @@
 <h3 align="center">⚠️ Hati-hati Ular Berbisa (banyak bisanya)</h3>
 <div align="center">
   <!-- Prompt line -->
-    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
-  </b> ./run ular
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run ular
 </div>
     <!-- Snake SVG -->
     <div align="center">
