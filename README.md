@@ -70,13 +70,12 @@
 - 📡 **Now:** Deepening knowledge in MQTT & real-time IoT pipelines
 
 ---
-
 ### 🎧 Github Stats
 <div align="center">
-      <b>
-        <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
-      </b> ./run Stats
-<div align="center">
+    <!-- Prompt line -->
+    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a>@linuxD:/README.md/$
+  </b> ./run Stats
+</div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
       <!-- GitHub Stats -->
