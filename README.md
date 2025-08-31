@@ -72,10 +72,12 @@
 ---
 
 <h3 align="center"> Github Stats</h3>
-  <div align="center">
-    <!-- Prompt line -->
-    <b>ficrammanifur@linuxD:~$ <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">
-  </b> ./run Stats
+
+<div align="center">
+  <!-- Prompt line -->
+  <b>ficrammanifur@linuxD:~$</b> 
+  <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">Ficrammanifur</a> 
+  ./run Stats
 </div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
