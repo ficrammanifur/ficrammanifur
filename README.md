@@ -78,7 +78,7 @@
   <a href="https://github.com/ficrammanifur">
     <!-- GitHub Stats -->
     <img height="137" alt="GitHub Stats"
-         src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=39FF14&icon_color=39FF14&bg_color=000000&theme=transparent&cache_seconds=1800" />
+         src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=#b5e2da&icon_color=#b5e2da&bg_color=000000&theme=transparent&cache_seconds=1800" />
     <!-- Top Languages -->
     <img height="137" alt="Top Languages"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=39FF14&icon_color=39FF14&bg_color=000000&theme=transparent&cache_seconds=1800" />
