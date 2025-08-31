@@ -71,11 +71,11 @@
 
 ---
 
+<h3 align="center">📊 Spotify Now Playing</h3>
+
 <div align="center">
-  <b>ficrammanifur@linuxD:~$</b> ./run 
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/20/ffffff/github.png" alt="github"/> Stats
-  </a>
+  <!-- Prompt line -->
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
 </div>
     <!-- Cards (transparent) -->
     <a href="https://github.com/ficrammanifur">
@@ -96,6 +96,7 @@
 </div>
 
 ---
+
 <h3 align="center">🎧 Spotify Now Playing</h3>
 
 <div align="center">
