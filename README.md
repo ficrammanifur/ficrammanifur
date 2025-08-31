@@ -73,6 +73,10 @@
 
 <h3 align="center">📊 Github Stats</h3>
 
+<div align="center">
+  <!-- Prompt line -->
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b>./run Stats
+</div>
 <div align="center" style="background-color:#000000; color:	#00979D; padding:15px; border-radius:10px; margin-top:10px;">
   <!-- Cards (transparent) -->
   <a href="https://github.com/ficrammanifur">
