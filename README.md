@@ -98,12 +98,12 @@
 ---
 
 <h3 align="center">🎧 Spotify Now Playing</h3>
-<br>
+
 <div align="center">
   <!-- Prompt line -->
   <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> Spotify
 </div>
-<br>
+<br><br>
 <p align="center">
   <a href="https://open.spotify.com/user/ficramm">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
@@ -118,6 +118,7 @@
 ---
 
 <h3 align="center">⚠️ Hati-hati Ular Berbisa (banyak bisanya)</h3>
+
 <div align="center">
   <!-- Prompt line -->
   <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run ular
@@ -144,5 +145,5 @@
 <div align="center">
 <p><a href="#top">⬆ Back on Top</a></p> 
   
-  <sub><i>Last Updated: 24 August 2025 (UTC+7)</i></sub>
+  <sub><i>Last Updated: 31 August 2025 (UTC+7)</i></sub>
 </div>
