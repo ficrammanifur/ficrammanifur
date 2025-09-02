@@ -54,7 +54,7 @@
 
 ### 🧠 AI & Data
 - [📈 ARIMA Stock Forecasting](https://github.com/ficrammanifur/flutter-project/tree/main/PastryStock)
-- [🎯 MCDM with SAW & WP](https://github.com/ficrammanifur/tofico-analyzer)
+- [🎯 MCDM with SAW & WP](https://fidelmutiara.github.io/tofico-analyzer/)
 - [📊 Statistical Data Analyzer](https://github.com/ficrammanifur)
 
 ### 🌐 Live Demos
