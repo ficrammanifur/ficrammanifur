@@ -70,38 +70,6 @@
 
 <h3 align="center">📊 Github Stats</h3>
 
-<div align="center">
-  <!-- Prompt line -->
-  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
-  <br>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" />
-
-<!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak" />
-  
-  <!-- Top Languages (Pie Chart Neon + Dark Background) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie&theme=radical&hide_border=true&bg_color=000000" alt="Top Langs" />
-
-</div>
-
----
-
-<h3 align="center">🎧 Spotify Now Playing</h3>
-
-<div align="center">
-  <!-- Prompt line -->
-  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> Spotify
-</div>
-<br><br>
-<p align="center">
-  <a href="https://open.spotify.com/user/ficramm">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
   <table>
     <tr>
       <td align="center">
@@ -117,6 +85,21 @@
         <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak"
     </tr>
   </table>
+
+---
+
+<h3 align="center">🎧 Spotify Now Playing</h3>
+
+<div align="center">
+  <!-- Prompt line -->
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> Spotify
+</div>
+<br><br>
+<p align="center">
+  <a href="https://open.spotify.com/user/ficramm">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
