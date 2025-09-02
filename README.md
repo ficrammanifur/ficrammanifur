@@ -70,6 +70,11 @@
 
 <h3 align="center">📊 Github Stats</h3>
 
+<div align="center">
+  <!-- Prompt line -->
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
+</div>
+<br>
   <table>
     <tr>
       <td align="center">
