@@ -73,6 +73,9 @@
 
 <h3 align="center">📊 Github Stats</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ficrammanifur=anuraghazra&theme=neon&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ficrammanifur=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <!-- Prompt line -->
   <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b>./run Stats
