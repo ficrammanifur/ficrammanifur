@@ -76,21 +76,18 @@
 <div align="center">
   <!-- Prompt line -->
   <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
-  <table>
-    <tr>
-      <td align="center">
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <!-- Top Languages (Pie Chart Neon) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie&theme=radical&hide_border=true" alt="Top Langs" />
-      </td>
-      <td align="center">
-        <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak"
-    </tr>
-  </table>
+  <br>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" />
+
+  <!-- Top Languages (Pie Chart Neon + Dark Background) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie&theme=radical&hide_border=true&bg_color=000000" alt="Top Langs" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak" />
+
 </div>
 
 ---
