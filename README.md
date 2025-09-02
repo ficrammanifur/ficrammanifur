@@ -73,22 +73,18 @@
 
 <h3 align="center">📊 Github Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <!-- Prompt line -->
   <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b>./run Stats
 </div>
-<div align="center" style="background-color:#000000; color:	#00979D; padding:15px; border-radius:10px; margin-top:10px;">
-  <!-- Cards (transparent) -->
-  <a href="https://github.com/ficrammanifur">
-    <!-- GitHub Stats -->
-    <img height="140" alt="GitHub Stats"
-         src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=00979D&icon_color=00979D&bg_color=000000&theme=transparent&cache_seconds=1800" />
-    <!-- Top Languages -->
-    <img height="140" alt="Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=00979D&icon_color=00979D&bg_color=000000&theme=transparent&cache_seconds=1800" />
+<div align="center">
+  <!-- GitHub Stats -->
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie" alt="Top Langs" />
   </a>
 </div>
 <div align="center">
