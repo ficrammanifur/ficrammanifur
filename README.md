@@ -92,8 +92,7 @@
       </td>
       <td align="center">
         <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ficrammanifur&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-      </td>
+        <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak"
     </tr>
   </table>
 
