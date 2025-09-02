@@ -74,24 +74,29 @@
 <h3 align="center">📊 Github Stats</h3>
 
 <div align="center">
+
   <!-- Prompt line -->
-  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b>./run Stats
-</div>
-<div align="center">
-  <!-- GitHub Stats -->
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats  
+
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true" alt="GitHub Stats" />
-  <!-- Top Languages -->
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie" alt="Top Langs" />
-  </a>
-</div>
-<div align="center">
-    <!-- GitHub Streak Stats -->
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak" />
-    </a>
+
+  <table>
+    <tr>
+      <td align="center">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <!-- Top Languages (Pie Chart Neon) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie&theme=radical&hide_border=true" alt="Top Langs" />
+      </td>
+      <td align="center">
+        <!-- GitHub Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ficrammanifur&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
