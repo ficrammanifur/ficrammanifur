@@ -74,12 +74,8 @@
 <h3 align="center">📊 Github Stats</h3>
 
 <div align="center">
-
   <!-- Prompt line -->
-  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats  
-
-  <br><br>
-
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
   <table>
     <tr>
       <td align="center">
@@ -95,7 +91,6 @@
         <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak"
     </tr>
   </table>
-
 </div>
 
 ---
