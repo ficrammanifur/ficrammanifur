@@ -82,11 +82,11 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" />
 
+<!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak" />
+  
   <!-- Top Languages (Pie Chart Neon + Dark Background) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie&theme=radical&hide_border=true&bg_color=000000" alt="Top Langs" />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats-topaz-psi.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak" />
 
 </div>
 
