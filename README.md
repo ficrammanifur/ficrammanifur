@@ -87,7 +87,7 @@
     </td>
     <td align="center">
       <!-- GitHub Streak Stats -->
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ficrammanifur&theme=neon&hide_border=true&background=000000&border_radius=2&card_width=400&card_height=170" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ficrammanifur&theme=neon" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
