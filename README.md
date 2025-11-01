@@ -77,11 +77,11 @@
     <td align="center">
       <!-- Top Languages (Pie Chart Neon + Dark Background) -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=pie&theme=radical&hide_border=true&bg_color=000000" alt="Top Langs" />
-    </td>
+    <!-- </td>
     <td align="center">
       <!-- GitHub Streak Stats -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-t7g7.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&card_width=400&card_height=190" alt="GitHub Streak" /></a>
-    </td>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-t7g7.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&card_width=400&card_height=190" alt="GitHub Streak" /></a> -->
+    </td> -->
   </tr> -->
 </table>
 
