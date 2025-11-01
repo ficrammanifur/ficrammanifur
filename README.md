@@ -72,8 +72,8 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
   <br>
-  <!-- Top Languages Bar Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=default&theme=radical&hide_border=true" alt="Top Languages Bar Chart" />
+  <!-- Top Languages Bar Chart (Compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=radical&hide_border=true" alt="Top Languages Bar Chart" />
 </div>
 
 ---
