@@ -81,8 +81,8 @@
     <td align="center">
       <!-- GitHub Streak Stats -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-t7g7.vercel.app?user=ficrammanifur&theme=neon&hide_border=true&card_width=400&card_height=190" alt="GitHub Streak" /></a> -->
-    </td> -->
-  </tr> -->
+    </td>
+  </tr>
 </table>
 
 ---
