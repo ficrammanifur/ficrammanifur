@@ -13,6 +13,25 @@
   </p>
 </div>
 
+---
+
+<h3 align="center">📊 Github Stats</h3>
+
+<div align="center">
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
+</div>
+<br>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
+  <br>
+  <!-- Top Languages Bar Chart (Compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=radical&hide_border=true" alt="Top Languages Bar Chart" />
+</div>
+
+---
+
 ## 💻 Skills & Technologies
 
 ### Languages
@@ -59,25 +78,33 @@
 - [🐔 Sistem Pakan Ayam Otomatis dengan ESP32 (Online)](https://ficrammanifur.github.io/Pakan-Ayam-Otomatis/)
 - [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
 
-<div align="center">
-💻 All my repos: <a href="https://github.com/ficrammanifur/github-hub">GitHub Hub</a>
-</div>
+---
+
+## 🎯 Interests & Expertise
+
+| Area | Fokus |
+|------|-------|
+| **Embedded Systems** | ESP32, Arduino, IoT protocols (MQTT) |
+| **Robotics** | ROS2, autonomous systems, motion control |
+| **AI/ML** | Computer vision, time series prediction, NLP |
+| **Full Stack** | Flutter, Python backends, web applications |
+| **Signal Processing** | Control systems, digital filtering |
 
 ---
 
-<h3 align="center">📊 Github Stats</h3>
+<h3 align="center">⚠️ Hati-hati Ular Berbisa (banyak bisanya)</h3>
 
 <div align="center">
-  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
+  <!-- Prompt line -->
+  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run ular
 </div>
-<br>
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
-  <br>
-  <!-- Top Languages Bar Chart (Compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=radical&hide_border=true" alt="Top Languages Bar Chart" />
+    <!-- Snake SVG -->
+    <div align="center">
+      <img alt="GitHub Contribution Snake"
+           src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg"
+           style="max-width:100%; border-radius:12px;" />
+    </div>
+  </div>
 </div>
 
 ---
@@ -97,21 +124,11 @@
 
 ---
 
-<h3 align="center">⚠️ Hati-hati Ular Berbisa (banyak bisanya)</h3>
+## 📖 Latest Projects & Repos
 
-<div align="center">
-  <!-- Prompt line -->
-  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run ular
-</div>
-    <!-- Snake SVG -->
-    <div align="center">
-      <img alt="GitHub Contribution Snake"
-           src="https://raw.githubusercontent.com/ficrammanifur/ficrammanifur/output/github-contribution-grid-snake.svg"
-           style="max-width:100%; border-radius:12px;" />
-    </div>
-  </div>
-</div>
+Jelajahi semua proyek saya di [GitHub Hub](https://github.com/ficrammanifur/github-hub) atau kunjungi **[GitHub Profile](https://github.com/ficrammanifur)** saya.
 
+---
 
 <p align="center">
   <a href="mailto:ficramm@gmail.com">
@@ -125,5 +142,5 @@
 <div align="center">
 <p><a href="#top">⬆ Back on Top</a></p> 
   
-  <sub><i>Last Updated: 31 August 2025 (UTC+7)</i></sub>
+  <sub><i>Last Updated: 3 November 2025 (UTC+7)</i></sub>
 </div>
