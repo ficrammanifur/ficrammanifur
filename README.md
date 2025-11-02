@@ -130,14 +130,15 @@ Jelajahi semua proyek saya di [GitHub Hub](https://github.com/ficrammanifur/gith
 
 ---
 
-<p align="center">
-  <a href="mailto:ficramm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/ficrammanifur" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+## 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ficramm@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ficrammanifur)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ficrammanifur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ficrammanifur)
+</div>
 
 <div align="center">
 <p><a href="#top">⬆ Back on Top</a></p> 
