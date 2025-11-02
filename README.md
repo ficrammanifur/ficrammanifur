@@ -78,8 +78,14 @@
 - [🐔 Sistem Pakan Ayam Otomatis dengan ESP32 (Online)](https://ficrammanifur.github.io/Pakan-Ayam-Otomatis/)
 - [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
 
+
+## 📖 Latest Projects & Repos
+
+Jelajahi semua proyek saya di [GitHub Hub](https://github.com/ficrammanifur/github-hub) atau kunjungi **[GitHub Profile](https://github.com/ficrammanifur)** saya.
+
 ---
 
+<div align="center">
 ## 🎯 Interests & Expertise
 
 | Area | Fokus |
@@ -89,6 +95,7 @@
 | **AI/ML** | Computer vision, time series prediction, NLP |
 | **Full Stack** | Flutter, Python backends, web applications |
 | **Signal Processing** | Control systems, digital filtering |
+</div>
 
 ---
 
@@ -121,12 +128,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ficramm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
-
----
-
-## 📖 Latest Projects & Repos
-
-Jelajahi semua proyek saya di [GitHub Hub](https://github.com/ficrammanifur/github-hub) atau kunjungi **[GitHub Profile](https://github.com/ficrammanifur)** saya.
 
 ---
 
