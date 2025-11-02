@@ -86,6 +86,7 @@ Jelajahi semua proyek saya di [GitHub Hub](https://github.com/ficrammanifur/gith
 ---
 
 <div align="center">
+  
 ## 🎯 Interests & Expertise
 
 | Area | Fokus |
