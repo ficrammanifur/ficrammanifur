@@ -15,19 +15,35 @@
 
 ---
 
-<h3 align="center">📊 Github Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <b><a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">ficrammanifur</a>@linuxD:~$</b> ./run Stats
+  <b>
+    <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">
+      ficrammanifur
+    </a>@linuxD:~$
+  </b> ./run Stats
 </div>
+
 <br>
 
 <div align="center">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=neon&show_icons=true&hide_border=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=radical&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+    style="margin-bottom: 20px;"
+  />
+
   <br>
-  <!-- Top Languages Bar Chart (Compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=radical&hide_border=true" alt="Top Languages Bar Chart" />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
+
 </div>
 
 ---
