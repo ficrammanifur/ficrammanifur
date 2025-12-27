@@ -22,28 +22,33 @@
     <a href="https://ficrammanifur.github.io/ficram-portfolio/" target="_blank">
       ficrammanifur
     </a>@linuxD:~$
-  </b> ./run Stats
+  </b> ./run stats
 </div>
 
 <br>
 
 <div align="center">
-
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=radical&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ficrammanifur&theme=radical&show_icons=true&hide_border=true&count_private=true"
     alt="GitHub Stats"
-    style="margin-bottom: 20px;"
+    height="180"
   />
-
-  <br>
-
+  
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=radical&hide_border=true&langs_count=8"
     alt="Top Languages"
+    height="180"
   />
+</div>
 
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ficrammanifur&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
