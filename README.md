@@ -26,7 +26,8 @@
 
 <div align="center">
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=ficrammanifur&theme=radical"
+  src="https://stats-github-readme.vercel.app/api/top-langs/?username=ficrammanifur&layout=compact&theme=radical"
+  height="180"
 />
 </div>
 
