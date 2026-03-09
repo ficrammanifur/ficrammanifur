@@ -81,6 +81,7 @@
 - [📊 Statistical Data Analyzer](https://github.com/ficrammanifur)
 
 ### 🌐 Live Demos
+- [🖐️ AI Hand-Tracking IoT Dashboard (Online)](https://github.com/ficrammanifur/hand-tracking-dashboard/)
 - [🚰 FILLING MACHINE WEB CONTROL (Online)](https://ficrammanifur.github.io/Filling-Machine-Web-Control/)
 - [🐔 Sistem Pakan Ayam Otomatis dengan ESP32 (Online)](https://ficrammanifur.github.io/Pakan-Ayam-Otomatis/)
 - [🌍 Tofico Analyzer (Online)](https://fidelmutiara.github.io/tofico-analyzer/)
